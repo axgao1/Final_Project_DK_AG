@@ -4,7 +4,7 @@ Hey Annie, here's how to do some things in Markdown (check them out in edit mode
 [Making a hyperlink](https://i.pinimg.com/736x/88/50/2b/88502b58b2ca3509be47473044fde8cc--wink-wink-adorable-animals.jpg)
 
 
-images
+images (go the image, right click to copy direct URL link you can resize using html options).
 
 <img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true">
 
