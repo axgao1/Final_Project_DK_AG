@@ -7,6 +7,11 @@ We're doing a regression and including some other variables
 # The data
 
 put in links to websites
+education/unemployent/income 2016 - https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t
+health outcomes/sex/race/age 2016 - https://wonder.cdc.gov/controller/datarequest/D76
+2016 county crosswalk - http://www.nber.org/cbsa-msa-fips-ssa-county-crosswalk/2016/
+census tract - https://www.census.gov/geo/maps-data/data/tiger-line.html (2016)
+hospital address/coordinates - https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u
 
 # The investigation
 ## 
