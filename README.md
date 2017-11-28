@@ -6,7 +6,7 @@ Hey Annie, here's how to do some things in Markdown (check them out in edit mode
 
 images
 
-<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.pdf">
+<img src="Final_Project_DK_AG/All Cause Data Availability Map.pdf">
 
 # The question
 We want to examine the difference in the impact of being far from a hospital on health outcomes in states where health outcomes are generally poor (LA, AL, MS) compared with states where they are generally good (MT, SD, ND).
