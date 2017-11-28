@@ -1,0 +1,83 @@
+Cause of death,Cause of death Code,County,County Code,Deaths,Population,Crude Rate
+"Septicaemia, unspecified",A41.9,"Burleigh County, North Dakota",38015,12,92991,12.90447463
+"Septicaemia, unspecified",A41.9,"Grand Forks County, North Dakota",38035,11,70916,15.51130915
+"Colon, unspecified - Malignant neoplasms",C18.9,"Cass County, North Dakota",38017,12,171512,6.99659499
+"Colon, unspecified - Malignant neoplasms",C18.9,"Grand Forks County, North Dakota",38035,10,70916,14.10119014
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Burleigh County, North Dakota",38015,13,92991,13.97984751
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Cass County, North Dakota",38017,12,171512,6.99659499
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Burleigh County, North Dakota",38015,36,92991,38.71342388
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Cass County, North Dakota",38017,46,171512,26.8202808
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Grand Forks County, North Dakota",38035,24,70916,33.84285634
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Morton County, North Dakota",38059,13,30310,42.89013527
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Richland County, North Dakota",38077,14,16402,85.35544446
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Ward County, North Dakota",38101,22,71275,30.86636268
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Williams County, North Dakota",38105,13,35294,36.83345611
+"Breast, unspecified - Malignant neoplasms",C50.9,"Burleigh County, North Dakota",38015,13,92991,13.97984751
+"Breast, unspecified - Malignant neoplasms",C50.9,"Cass County, North Dakota",38017,11,171512,6.413545408
+Malignant neoplasm of prostate,C61,"Cass County, North Dakota",38017,20,171512,11.66099165
+Malignant neoplasm without specification of site,C80,"Cass County, North Dakota",38017,12,171512,6.99659499
+"Unspecified diabetes mellitus, without complications",E14.9,"Burleigh County, North Dakota",38015,11,92991,11.82910174
+"Unspecified diabetes mellitus, without complications",E14.9,"Cass County, North Dakota",38017,10,171512,5.830495825
+"Vascular dementia, unspecified",F01.9,"Stark County, North Dakota",38089,10,32154,31.10032966
+Unspecified dementia,F03,"Burleigh County, North Dakota",38015,14,92991,15.0552204
+Unspecified dementia,F03,"Cass County, North Dakota",38017,27,171512,15.74233873
+Unspecified dementia,F03,"Grand Forks County, North Dakota",38035,12,70916,16.92142817
+Unspecified dementia,F03,"Williams County, North Dakota",38105,10,35294,28.33342778
+Parkinson's disease,G20,"Cass County, North Dakota",38017,12,171512,6.99659499
+"Alzheimer's disease, unspecified",G30.9,"Barnes County, North Dakota",38003,17,11099,153.166952
+"Alzheimer's disease, unspecified",G30.9,"Burleigh County, North Dakota",38015,63,92991,67.74849179
+"Alzheimer's disease, unspecified",G30.9,"Cass County, North Dakota",38017,61,171512,35.56602453
+"Alzheimer's disease, unspecified",G30.9,"Grand Forks County, North Dakota",38035,28,70916,39.48333239
+"Alzheimer's disease, unspecified",G30.9,"Griggs County, North Dakota",38039,10,2314,432.1521175
+"Alzheimer's disease, unspecified",G30.9,"McLean County, North Dakota",38055,10,9744,102.6272578
+"Alzheimer's disease, unspecified",G30.9,"Morton County, North Dakota",38059,19,30310,62.68558232
+"Alzheimer's disease, unspecified",G30.9,"Stark County, North Dakota",38089,14,32154,43.54046153
+"Alzheimer's disease, unspecified",G30.9,"Stutsman County, North Dakota",38093,10,21103,47.38662749
+"Alzheimer's disease, unspecified",G30.9,"Traill County, North Dakota",38097,13,8014,162.2161218
+"Alzheimer's disease, unspecified",G30.9,"Ward County, North Dakota",38101,26,71275,36.47842862
+Essential (primary) hypertension,I10,"Burleigh County, North Dakota",38015,13,92991,13.97984751
+Essential (primary) hypertension,I10,"Cass County, North Dakota",38017,11,171512,6.413545408
+"Acute myocardial infarction, unspecified",I21.9,"Barnes County, North Dakota",38003,10,11099,90.09820705
+"Acute myocardial infarction, unspecified",I21.9,"Burleigh County, North Dakota",38015,21,92991,22.5828306
+"Acute myocardial infarction, unspecified",I21.9,"Cass County, North Dakota",38017,22,171512,12.82709082
+"Acute myocardial infarction, unspecified",I21.9,"Grand Forks County, North Dakota",38035,14,70916,19.7416662
+"Acute myocardial infarction, unspecified",I21.9,"Rolette County, North Dakota",38079,10,14649,68.26404533
+"Acute myocardial infarction, unspecified",I21.9,"Stark County, North Dakota",38089,10,32154,31.10032966
+"Acute myocardial infarction, unspecified",I21.9,"Ward County, North Dakota",38101,32,71275,44.89652753
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Cass County, North Dakota",38017,32,171512,18.65758664
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Mountrail County, North Dakota",38061,12,10331,116.1552609
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Sioux County, North Dakota",38085,13,4370,297.4828375
+Atherosclerotic heart disease,I25.1,"Burleigh County, North Dakota",38015,35,92991,37.63805099
+Atherosclerotic heart disease,I25.1,"Cass County, North Dakota",38017,48,171512,27.98637996
+Atherosclerotic heart disease,I25.1,"Dickey County, North Dakota",38021,10,5104,195.9247649
+Atherosclerotic heart disease,I25.1,"Grand Forks County, North Dakota",38035,21,70916,29.61249929
+Atherosclerotic heart disease,I25.1,"McLean County, North Dakota",38055,14,9744,143.6781609
+Atherosclerotic heart disease,I25.1,"Morton County, North Dakota",38059,13,30310,42.89013527
+Atherosclerotic heart disease,I25.1,"Ramsey County, North Dakota",38071,11,11630,94.58297506
+Atherosclerotic heart disease,I25.1,"Richland County, North Dakota",38077,16,16402,97.54907938
+Atherosclerotic heart disease,I25.1,"Stark County, North Dakota",38089,17,32154,52.87056043
+Atherosclerotic heart disease,I25.1,"Walsh County, North Dakota",38099,16,10897,146.8294026
+Atherosclerotic heart disease,I25.1,"Ward County, North Dakota",38101,25,71275,35.07541214
+Atherosclerotic heart disease,I25.1,"Williams County, North Dakota",38105,14,35294,39.66679889
+Atrial fibrillation and flutter,I48,"Cass County, North Dakota",38017,14,171512,8.162694156
+Congestive heart failure,I50.0,"Burleigh County, North Dakota",38015,13,92991,13.97984751
+Congestive heart failure,I50.0,"Cass County, North Dakota",38017,16,171512,9.328793321
+Congestive heart failure,I50.0,"Grand Forks County, North Dakota",38035,13,70916,18.33154718
+"Stroke, not specified as haemorrhage or infarction",I64,"Burleigh County, North Dakota",38015,25,92991,26.88432214
+"Stroke, not specified as haemorrhage or infarction",I64,"Cass County, North Dakota",38017,20,171512,11.66099165
+"Stroke, not specified as haemorrhage or infarction",I64,"Grand Forks County, North Dakota",38035,12,70916,16.92142817
+"Stroke, not specified as haemorrhage or infarction",I64,"Ward County, North Dakota",38101,12,71275,16.83619783
+Generalized and unspecified atherosclerosis,I70.9,"Burleigh County, North Dakota",38015,17,92991,18.28133905
+Generalized and unspecified atherosclerosis,I70.9,"Morton County, North Dakota",38059,15,30310,49.48861762
+"Pneumonia, unspecified",J18.9,"Cass County, North Dakota",38017,32,171512,18.65758664
+"Pneumonia, unspecified",J18.9,"Ward County, North Dakota",38101,13,71275,18.23921431
+Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,"Burleigh County, North Dakota",38015,11,92991,11.82910174
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Burleigh County, North Dakota",38015,16,92991,17.20596617
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Cass County, North Dakota",38017,50,171512,29.15247913
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Grand Forks County, North Dakota",38035,18,70916,25.38214225
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Stark County, North Dakota",38089,10,32154,31.10032966
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Stutsman County, North Dakota",38093,13,21103,61.60261574
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Ward County, North Dakota",38101,23,71275,32.26937917
+Pneumonitis due to food and vomit,J69.0,"Burleigh County, North Dakota",38015,12,92991,12.90447463
+Pneumonitis due to food and vomit,J69.0,"Cass County, North Dakota",38017,13,171512,7.579644573
+Alcoholic cirrhosis of liver,K70.3,"Cass County, North Dakota",38017,11,171512,6.413545408

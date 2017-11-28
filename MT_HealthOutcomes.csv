@@ -1,0 +1,150 @@
+Cause of death,Cause of death Code,County,County Code,Deaths,Population,Crude Rate
+"Septicaemia, unspecified",A41.9,"Yellowstone County, Montana",30111,12,157048,7.640976007
+"Colon, unspecified - Malignant neoplasms",C18.9,"Flathead County, Montana",30029,17,96165,17.67794936
+"Colon, unspecified - Malignant neoplasms",C18.9,"Yellowstone County, Montana",30111,15,157048,9.551220009
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Cascade County, Montana",30013,19,82278,23.09244269
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Flathead County, Montana",30029,20,96165,20.79758748
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Missoula County, Montana",30063,13,114181,11.3854319
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Yellowstone County, Montana",30111,20,157048,12.73496001
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Cascade County, Montana",30013,51,82278,61.98497776
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Flathead County, Montana",30029,56,96165,58.23324494
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Gallatin County, Montana",30031,19,100739,18.86062002
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Hill County, Montana",30041,10,16572,60.3427468
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lake County, Montana",30047,17,29457,57.71124011
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lewis and Clark County, Montana",30049,33,66418,49.68532627
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lincoln County, Montana",30053,30,19052,157.4637833
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Missoula County, Montana",30063,47,114181,41.16271534
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Park County, Montana",30067,11,15972,68.87052342
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Ravalli County, Montana",30081,27,41373,65.25995214
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Sanders County, Montana",30089,10,11336,88.21453776
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Silver Bow County, Montana",30093,26,34622,75.09675929
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Yellowstone County, Montana",30111,67,157048,42.66211604
+"Breast, unspecified - Malignant neoplasms",C50.9,"Flathead County, Montana",30029,16,96165,16.63806998
+"Breast, unspecified - Malignant neoplasms",C50.9,"Lewis and Clark County, Montana",30049,10,66418,15.05615947
+"Breast, unspecified - Malignant neoplasms",C50.9,"Missoula County, Montana",30063,14,114181,12.26123436
+"Breast, unspecified - Malignant neoplasms",C50.9,"Yellowstone County, Montana",30111,27,157048,17.19219602
+Malignant neoplasm of prostate,C61,"Flathead County, Montana",30029,13,96165,13.51843186
+Malignant neoplasm of prostate,C61,"Missoula County, Montana",30063,10,114181,8.75802454
+Malignant neoplasm of prostate,C61,"Yellowstone County, Montana",30111,25,157048,15.91870002
+"Bladder, unspecified - Malignant neoplasms",C67.9,"Yellowstone County, Montana",30111,11,157048,7.004228007
+"Brain, unspecified - Malignant neoplasms",C71.9,"Yellowstone County, Montana",30111,12,157048,7.640976007
+Malignant neoplasm without specification of site,C80,"Cascade County, Montana",30013,10,82278,12.15391721
+Malignant neoplasm without specification of site,C80,"Flathead County, Montana",30029,12,96165,12.47855249
+Malignant neoplasm without specification of site,C80,"Missoula County, Montana",30063,11,114181,9.633826994
+Malignant neoplasm without specification of site,C80,"Yellowstone County, Montana",30111,20,157048,12.73496001
+"Non-insulin-dependent diabetes mellitus, without complications",E11.9,"Yellowstone County, Montana",30111,12,157048,7.640976007
+"Unspecified diabetes mellitus, without complications",E14.9,"Cascade County, Montana",30013,12,82278,14.58470065
+"Unspecified diabetes mellitus, without complications",E14.9,"Missoula County, Montana",30063,17,114181,14.88864172
+"Unspecified diabetes mellitus, without complications",E14.9,"Yellowstone County, Montana",30111,22,157048,14.00845601
+"Hyperlipidaemia, unspecified",E78.5,"Lewis and Clark County, Montana",30049,12,66418,18.06739137
+Unspecified dementia,F03,"Cascade County, Montana",30013,28,82278,34.03096818
+Unspecified dementia,F03,"Dawson County, Montana",30021,10,9625,103.8961039
+Unspecified dementia,F03,"Fergus County, Montana",30027,13,11427,113.7656428
+Unspecified dementia,F03,"Flathead County, Montana",30029,83,96165,86.30998804
+Unspecified dementia,F03,"Gallatin County, Montana",30031,56,100739,55.58919584
+Unspecified dementia,F03,"Lewis and Clark County, Montana",30049,34,66418,51.19094221
+Unspecified dementia,F03,"Lincoln County, Montana",30053,10,19052,52.48792778
+Unspecified dementia,F03,"Missoula County, Montana",30063,66,114181,57.80296196
+Unspecified dementia,F03,"Park County, Montana",30067,10,15972,62.60956674
+Unspecified dementia,F03,"Ravalli County, Montana",30081,32,41373,77.34512847
+Unspecified dementia,F03,"Silver Bow County, Montana",30093,14,34622,40.43671654
+Unspecified dementia,F03,"Yellowstone County, Montana",30111,72,157048,45.84585604
+Motor neuron disease,G12.2,"Yellowstone County, Montana",30111,10,157048,6.367480006
+Parkinson's disease,G20,"Cascade County, Montana",30013,12,82278,14.58470065
+Parkinson's disease,G20,"Flathead County, Montana",30029,14,96165,14.55831124
+Parkinson's disease,G20,"Gallatin County, Montana",30031,16,100739,15.88262738
+Parkinson's disease,G20,"Missoula County, Montana",30063,10,114181,8.75802454
+Parkinson's disease,G20,"Yellowstone County, Montana",30111,12,157048,7.640976007
+"Alzheimer's disease, unspecified",G30.9,"Cascade County, Montana",30013,52,82278,63.20036948
+"Alzheimer's disease, unspecified",G30.9,"Flathead County, Montana",30029,10,96165,10.39879374
+"Alzheimer's disease, unspecified",G30.9,"Lewis and Clark County, Montana",30049,18,66418,27.10108705
+"Alzheimer's disease, unspecified",G30.9,"Lincoln County, Montana",30053,10,19052,52.48792778
+"Alzheimer's disease, unspecified",G30.9,"Missoula County, Montana",30063,24,114181,21.0192589
+"Alzheimer's disease, unspecified",G30.9,"Ravalli County, Montana",30081,12,41373,29.00442317
+"Alzheimer's disease, unspecified",G30.9,"Yellowstone County, Montana",30111,52,157048,33.11089603
+Essential (primary) hypertension,I10,"Silver Bow County, Montana",30093,11,34622,31.77170585
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Lewis and Clark County, Montana",30049,11,66418,16.56177542
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Yellowstone County, Montana",30111,11,157048,7.004228007
+"Acute myocardial infarction, unspecified",I21.9,"Cascade County, Montana",30013,16,82278,19.44626753
+"Acute myocardial infarction, unspecified",I21.9,"Flathead County, Montana",30029,19,96165,19.75770811
+"Acute myocardial infarction, unspecified",I21.9,"Lewis and Clark County, Montana",30049,24,66418,36.13478274
+"Acute myocardial infarction, unspecified",I21.9,"Missoula County, Montana",30063,13,114181,11.3854319
+"Acute myocardial infarction, unspecified",I21.9,"Silver Bow County, Montana",30093,11,34622,31.77170585
+"Acute myocardial infarction, unspecified",I21.9,"Yellowstone County, Montana",30111,37,157048,23.55967602
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Cascade County, Montana",30013,31,82278,37.67714334
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Deer Lodge County, Montana",30023,16,9139,175.0738593
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Flathead County, Montana",30029,58,96165,60.31300369
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Gallatin County, Montana",30031,47,100739,46.65521794
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Hill County, Montana",30041,22,16572,132.754043
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Jefferson County, Montana",30043,11,11645,94.46114212
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Lake County, Montana",30047,18,29457,61.10601894
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Lincoln County, Montana",30053,18,19052,94.47827
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Missoula County, Montana",30063,47,114181,41.16271534
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Ravalli County, Montana",30081,10,41373,24.17035265
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Roosevelt County, Montana",30085,17,11476,148.1352388
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Sanders County, Montana",30089,14,11336,123.5003529
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Silver Bow County, Montana",30093,21,34622,60.65507481
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Valley County, Montana",30105,14,7659,182.7914871
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Yellowstone County, Montana",30111,20,157048,12.73496001
+Atherosclerotic heart disease,I25.1,"Cascade County, Montana",30013,29,82278,35.2463599
+Atherosclerotic heart disease,I25.1,"Custer County, Montana",30017,10,12135,82.40626288
+Atherosclerotic heart disease,I25.1,"Flathead County, Montana",30029,18,96165,18.71782873
+Atherosclerotic heart disease,I25.1,"Gallatin County, Montana",30031,10,100739,9.926642115
+Atherosclerotic heart disease,I25.1,"Lake County, Montana",30047,17,29457,57.71124011
+Atherosclerotic heart disease,I25.1,"Lewis and Clark County, Montana",30049,11,66418,16.56177542
+Atherosclerotic heart disease,I25.1,"Missoula County, Montana",30063,41,114181,35.90790061
+Atherosclerotic heart disease,I25.1,"Ravalli County, Montana",30081,12,41373,29.00442317
+Atherosclerotic heart disease,I25.1,"Silver Bow County, Montana",30093,27,34622,77.98509618
+Atherosclerotic heart disease,I25.1,"Yellowstone County, Montana",30111,73,157048,46.48260404
+Aortic (valve) stenosis,I35.0,"Yellowstone County, Montana",30111,10,157048,6.367480006
+"Cardiac arrest, unspecified",I46.9,"Toole County, Montana",30101,11,5087,216.2374681
+Atrial fibrillation and flutter,I48,"Lewis and Clark County, Montana",30049,11,66418,16.56177542
+Atrial fibrillation and flutter,I48,"Missoula County, Montana",30063,15,114181,13.13703681
+Atrial fibrillation and flutter,I48,"Yellowstone County, Montana",30111,24,157048,15.28195201
+Congestive heart failure,I50.0,"Carbon County, Montana",30009,10,10408,96.07993851
+Congestive heart failure,I50.0,"Cascade County, Montana",30013,16,82278,19.44626753
+Congestive heart failure,I50.0,"Fergus County, Montana",30027,10,11427,87.5120329
+Congestive heart failure,I50.0,"Flathead County, Montana",30029,32,96165,33.27613997
+Congestive heart failure,I50.0,"Gallatin County, Montana",30031,19,100739,18.86062002
+Congestive heart failure,I50.0,"Lake County, Montana",30047,13,29457,44.13212479
+Congestive heart failure,I50.0,"Lewis and Clark County, Montana",30049,11,66418,16.56177542
+Congestive heart failure,I50.0,"Missoula County, Montana",30063,22,114181,19.26765399
+Congestive heart failure,I50.0,"Ravalli County, Montana",30081,14,41373,33.8384937
+Congestive heart failure,I50.0,"Silver Bow County, Montana",30093,24,34622,69.32008549
+Congestive heart failure,I50.0,"Yellowstone County, Montana",30111,31,157048,19.73918802
+"Heart failure, unspecified",I50.9,"Yellowstone County, Montana",30111,18,157048,11.46146401
+"Stroke, not specified as haemorrhage or infarction",I64,"Cascade County, Montana",30013,20,82278,24.30783442
+"Stroke, not specified as haemorrhage or infarction",I64,"Flathead County, Montana",30029,30,96165,31.19638122
+"Stroke, not specified as haemorrhage or infarction",I64,"Gallatin County, Montana",30031,16,100739,15.88262738
+"Stroke, not specified as haemorrhage or infarction",I64,"Lake County, Montana",30047,10,29457,33.9477883
+"Stroke, not specified as haemorrhage or infarction",I64,"Lewis and Clark County, Montana",30049,12,66418,18.06739137
+"Stroke, not specified as haemorrhage or infarction",I64,"Missoula County, Montana",30063,22,114181,19.26765399
+"Stroke, not specified as haemorrhage or infarction",I64,"Ravalli County, Montana",30081,12,41373,29.00442317
+"Stroke, not specified as haemorrhage or infarction",I64,"Yellowstone County, Montana",30111,35,157048,22.28618002
+"Pneumonia, unspecified",J18.9,"Flathead County, Montana",30029,15,96165,15.59819061
+"Pneumonia, unspecified",J18.9,"Gallatin County, Montana",30031,11,100739,10.91930633
+"Pneumonia, unspecified",J18.9,"Yellowstone County, Montana",30111,26,157048,16.55544802
+Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,"Flathead County, Montana",30029,11,96165,11.43867311
+Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,"Yellowstone County, Montana",30111,13,157048,8.277724008
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Cascade County, Montana",30013,48,82278,58.3388026
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Fergus County, Montana",30027,19,11427,166.2728625
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Flathead County, Montana",30029,49,96165,50.95408933
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Gallatin County, Montana",30031,23,100739,22.83127686
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Hill County, Montana",30041,12,16572,72.41129616
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Lake County, Montana",30047,11,29457,37.34256713
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Lewis and Clark County, Montana",30049,29,66418,43.66286248
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Lincoln County, Montana",30053,14,19052,73.48309889
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Missoula County, Montana",30063,48,114181,42.03851779
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Ravalli County, Montana",30081,19,41373,45.92367003
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Silver Bow County, Montana",30093,28,34622,80.87343308
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Yellowstone County, Montana",30111,92,157048,58.58081606
+Pneumonitis due to food and vomit,J69.0,"Cascade County, Montana",30013,11,82278,13.36930893
+"Person injured in unspecified motor-vehicle accident, traffic",V89.2,"Yellowstone County, Montana",30111,14,157048,8.914472009
+Other fall on same level,W18,"Lewis and Clark County, Montana",30049,12,66418,18.06739137
+Unspecified fall,W19,"Yellowstone County, Montana",30111,14,157048,8.914472009
+"Intentional self-harm by hanging, strangulation and suffocation",X70,"Yellowstone County, Montana",30111,10,157048,6.367480006
+Intentional self-harm by handgun discharge,X72,"Flathead County, Montana",30029,11,96165,11.43867311
+Intentional self-harm by handgun discharge,X72,"Yellowstone County, Montana",30111,17,157048,10.82471601
+Intentional self-harm by other and unspecified firearm discharge,X74,"Cascade County, Montana",30013,11,82278,13.36930893
+Intentional self-harm by other and unspecified firearm discharge,X74,"Missoula County, Montana",30063,10,114181,8.75802454
+"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,"Yellowstone County, Montana",30111,13,157048,8.277724008

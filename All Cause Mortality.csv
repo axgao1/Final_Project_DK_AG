@@ -1,0 +1,390 @@
+County,County Code,Deaths,Population,Crude Rate
+"Autauga County, Alabama",1001,7373,864093,853.3
+"Baldwin County, Alabama",1003,28318,2894386,978.4
+"Barbour County, Alabama",1005,4941,473530,1043.4
+"Bibb County, Alabama",1007,3850,374892,1027
+"Blount County, Alabama",1009,9215,939857,980.5
+"Bullock County, Alabama",1011,2172,187495,1158.4
+"Butler County, Alabama",1013,4711,353723,1331.8
+"Calhoun County, Alabama",1015,22869,1959744,1166.9
+"Chambers County, Alabama",1017,7873,595121,1322.9
+"Cherokee County, Alabama",1019,5118,429226,1192.4
+"Chilton County, Alabama",1021,7675,718554,1068.1
+"Choctaw County, Alabama",1023,2897,245140,1181.8
+"Clarke County, Alabama",1025,4857,448186,1083.7
+"Clay County, Alabama",1027,3094,237307,1303.8
+"Cleburne County, Alabama",1029,2886,249056,1158.8
+"Coffee County, Alabama",1031,8075,805908,1002
+"Colbert County, Alabama",1033,11147,926492,1203.1
+"Conecuh County, Alabama",1035,2934,227676,1288.7
+"Coosa County, Alabama",1037,2275,195149,1165.8
+"Covington County, Alabama",1039,8611,637775,1350.2
+"Crenshaw County, Alabama",1041,3046,235064,1295.8
+"Cullman County, Alabama",1043,15570,1348361,1154.7
+"Dale County, Alabama",1045,7832,842257,929.9
+"Dallas County, Alabama",1047,9254,750125,1233.7
+"DeKalb County, Alabama",1049,12222,1166654,1047.6
+"Elmore County, Alabama",1051,11040,1272411,867.6
+"Escambia County, Alabama",1053,7471,645804,1156.9
+"Etowah County, Alabama",1055,23060,1761832,1308.9
+"Fayette County, Alabama",1057,3937,299745,1313.4
+"Franklin County, Alabama",1059,6600,532139,1240.3
+"Geneva County, Alabama",1061,5546,446712,1241.5
+"Greene County, Alabama",1063,1861,158718,1172.5
+"Hale County, Alabama",1065,3215,277084,1160.3
+"Henry County, Alabama",1067,3599,287245,1252.9
+"Houston County, Alabama",1069,16124,1646763,979.1
+"Jackson County, Alabama",1071,10730,907010,1183
+"Jefferson County, Alabama",1073,120568,11190666,1077.4
+"Lamar County, Alabama",1075,3299,252649,1305.8
+"Lauderdale County, Alabama",1077,16922,1539691,1099.1
+"Lawrence County, Alabama",1079,6346,581249,1091.8
+"Lee County, Alabama",1081,14660,2261108,648.4
+"Limestone County, Alabama",1083,10831,1311323,826
+"Lowndes County, Alabama",1085,2325,203814,1140.7
+"Macon County, Alabama",1087,4412,372361,1184.9
+"Madison County, Alabama",1089,42131,5354232,786.9
+"Marengo County, Alabama",1091,4305,362914,1186.2
+"Marion County, Alabama",1093,6769,521329,1298.4
+"Marshall County, Alabama",1095,17101,1511822,1131.2
+"Mobile County, Alabama",1097,69017,6906894,999.2
+"Monroe County, Alabama",1099,4397,396014,1110.3
+"Montgomery County, Alabama",1101,34947,3842881,909.4
+"Morgan County, Alabama",1103,19497,1972008,988.7
+"Perry County, Alabama",1105,2454,184035,1333.4
+"Pickens County, Alabama",1107,4342,343702,1263.3
+"Pike County, Alabama",1109,5373,536480,1001.5
+"Randolph County, Alabama",1111,4777,384245,1243.2
+"Russell County, Alabama",1113,9590,896728,1069.4
+"St. Clair County, Alabama",1115,12685,1305843,971.4
+"Shelby County, Alabama",1117,18864,3040592,620.4
+"Sumter County, Alabama",1119,2658,237659,1118.4
+"Talladega County, Alabama",1121,15653,1385014,1130.2
+"Tallapoosa County, Alabama",1123,8836,701768,1259.1
+"Tuscaloosa County, Alabama",1125,26655,3125372,852.9
+"Walker County, Alabama",1127,16229,1155609,1404.4
+"Washington County, Alabama",1129,3109,298082,1043
+"Wilcox County, Alabama",1131,2521,205781,1225.1
+"Winston County, Alabama",1133,5092,416711,1221.9
+"Acadia County, Louisiana",22001,10718,1029909,1040.7
+"Allen County, Louisiana",22003,3583,434514,824.6
+"Ascension County, Louisiana",22005,10301,1657458,621.5
+"Assumption County, Louisiana",22007,3532,395711,892.6
+"Avoyelles County, Louisiana",22009,8288,706093,1173.8
+"Beauregard County, Louisiana",22011,5695,588717,967.4
+"Bienville County, Louisiana",22013,3644,249829,1458.6
+"Bossier County, Louisiana",22015,14967,1900468,787.5
+"Caddo County, Louisiana",22017,45644,4288079,1064.4
+"Calcasieu County, Louisiana",22019,31259,3215131,972.2
+"Caldwell County, Louisiana",22021,2126,173843,1222.9
+"Cameron County, Louisiana",22023,995,139208,714.8
+"Catahoula County, Louisiana",22025,2186,178110,1227.3
+"Claiborne County, Louisiana",22027,3349,286997,1166.9
+"Concordia County, Louisiana",22029,4001,345566,1157.8
+"De Soto County, Louisiana",22031,4907,446720,1098.5
+"East Baton Rouge County, Louisiana",22033,59522,7289966,816.5
+"East Carroll County, Louisiana",22035,1591,139961,1136.7
+"East Feliciana County, Louisiana",22037,3865,346574,1115.2
+"Evangeline County, Louisiana",22039,6414,585251,1095.9
+"Franklin County, Louisiana",22041,4586,353427,1297.6
+"Grant County, Louisiana",22043,3486,355262,981.2
+"Iberia County, Louisiana",22045,11768,1247022,943.7
+"Iberville County, Louisiana",22047,5350,565267,946.5
+"Jackson County, Louisiana",22049,3326,269594,1233.7
+"Jefferson County, Louisiana",22051,69374,7517968,922.8
+"Jefferson Davis County, Louisiana",22053,5993,533331,1123.7
+"Lafayette County, Louisiana",22055,26384,3601432,732.6
+"Lafourche County, Louisiana",22057,13503,1602771,842.5
+"LaSalle County, Louisiana",22059,2836,247962,1143.7
+"Lincoln County, Louisiana",22061,6003,768436,781.2
+"Livingston County, Louisiana",22063,14570,1976832,737
+"Madison County, Louisiana",22065,2521,213284,1182
+"Morehouse County, Louisiana",22067,6450,489589,1317.4
+"Natchitoches County, Louisiana",22069,6464,665878,970.7
+"Orleans County, Louisiana",22071,64534,6783601,951.3
+"Ouachita County, Louisiana",22073,24415,2575965,947.8
+"Plaquemines County, Louisiana",22075,3314,426534,777
+"Pointe Coupee County, Louisiana",22077,4152,384080,1081
+"Rapides County, Louisiana",22079,22935,2201124,1042
+"Red River County, Louisiana",22081,1864,156551,1190.7
+"Richland County, Louisiana",22083,4180,352544,1185.7
+"Sabine County, Louisiana",22085,4615,406228,1136.1
+"St. Bernard County, Louisiana",22087,8388,835468,1004
+"St. Charles County, Louisiana",22089,6236,869933,716.8
+"St. Helena County, Louisiana",22091,1909,183414,1040.8
+"St. James County, Louisiana",22093,3210,367802,872.8
+"St. John the Baptist County, Louisiana",22095,6064,762357,795.4
+"St. Landry County, Louisiana",22097,15796,1439873,1097
+"St. Martin County, Louisiana",22099,7307,868376,841.5
+"St. Mary County, Louisiana",22101,8944,912459,980.2
+"St. Tammany County, Louisiana",22103,30621,3769454,812.3
+"Tangipahoa County, Louisiana",22105,18306,1938556,944.3
+"Tensas County, Louisiana",22107,1141,94883,1202.5
+"Terrebonne County, Louisiana",22109,15712,1860178,844.7
+"Union County, Louisiana",22111,4385,385526,1137.4
+"Vermilion County, Louisiana",22113,9210,964010,955.4
+"Vernon County, Louisiana",22115,6037,878896,686.9
+"Washington County, Louisiana",22117,9554,775380,1232.2
+"Webster County, Louisiana",22119,8989,699413,1285.2
+"West Baton Rouge County, Louisiana",22121,3148,392061,802.9
+"West Carroll County, Louisiana",22123,2455,200768,1222.8
+"West Feliciana County, Louisiana",22125,1842,261948,703.2
+"Winn County, Louisiana",22127,3187,266409,1196.3
+"Adams County, Mississippi",28001,7022,558782,1256.7
+"Alcorn County, Mississippi",28003,7474,614853,1215.6
+"Amite County, Mississippi",28005,2528,225047,1123.3
+"Attala County, Mississippi",28007,4633,330074,1403.6
+"Benton County, Mississippi",28009,1605,142248,1128.3
+"Bolivar County, Mississippi",28011,7201,615758,1169.5
+"Calhoun County, Mississippi",28013,3119,253307,1231.3
+"Carroll County, Mississippi",28015,1790,179050,999.7
+"Chickasaw County, Mississippi",28017,3204,308339,1039.1
+"Choctaw County, Mississippi",28019,1593,151157,1053.9
+"Claiborne County, Mississippi",28021,1794,175050,1024.9
+"Clarke County, Mississippi",28023,3384,287995,1175
+"Clay County, Mississippi",28025,3788,357708,1059
+"Coahoma County, Mississippi",28027,5448,466422,1168
+"Copiah County, Mississippi",28029,5153,494746,1041.5
+"Covington County, Mississippi",28031,4014,331183,1212
+"DeSoto County, Mississippi",28033,17155,2450586,700
+"Forrest County, Mississippi",28035,12141,1256572,966.2
+"Franklin County, Mississippi",28037,1609,137628,1169.1
+"George County, Mississippi",28039,3849,364381,1056.3
+"Greene County, Mississippi",28041,2040,233392,874.1
+"Grenada County, Mississippi",28043,4905,377780,1298.4
+"Hancock County, Mississippi",28045,7362,754557,975.7
+"Harrison County, Mississippi",28047,30063,3235892,929
+"Hinds County, Mississippi",28049,35361,4200748,841.8
+"Holmes County, Mississippi",28051,3942,337803,1167
+"Humphreys County, Mississippi",28053,1931,167632,1151.9
+"Issaquena County, Mississippi",28055,229,28704,797.8
+"Itawamba County, Mississippi",28057,4643,394216,1177.8
+"Jackson County, Mississippi",28059,20609,2326042,886
+"Jasper County, Mississippi",28061,3187,295659,1077.9
+"Jefferson County, Mississippi",28063,1437,142025,1011.8
+"Jefferson Davis County, Mississippi",28065,2559,217231,1178
+"Jones County, Mississippi",28067,12154,1132596,1073.1
+"Kemper County, Mississippi",28069,1754,177604,987.6
+"Lafayette County, Mississippi",28071,5816,766928,758.4
+"Lamar County, Mississippi",28073,5892,852670,691
+"Lauderdale County, Mississippi",28075,15460,1342583,1151.5
+"Lawrence County, Mississippi",28077,2449,220257,1111.9
+"Leake County, Mississippi",28079,4274,386384,1106.2
+"Lee County, Mississippi",28081,14173,1370454,1034.2
+"Leflore County, Mississippi",28083,6460,575540,1122.4
+"Lincoln County, Mississippi",28085,6733,580268,1160.3
+"Lowndes County, Mississippi",28087,9279,1019384,910.3
+"Madison County, Mississippi",28089,16271,1510708,1077
+"Marion County, Mississippi",28091,5709,443161,1288.2
+"Marshall County, Mississippi",28093,6468,614545,1052.5
+"Monroe County, Mississippi",28095,6875,631892,1088
+"Montgomery County, Mississippi",28097,2464,190963,1290.3
+"Neshoba County, Mississippi",28099,5662,496944,1139.4
+"Newton County, Mississippi",28101,4179,368928,1132.7
+"Noxubee County, Mississippi",28103,1985,200501,990
+"Oktibbeha County, Mississippi",28105,4856,779922,622.6
+"Panola County, Mississippi",28107,6338,587073,1079.6
+"Pearl River County, Mississippi",28109,9360,902685,1036.9
+"Perry County, Mississippi",28111,2183,207183,1053.7
+"Pike County, Mississippi",28113,8085,673230,1200.9
+"Pontotoc County, Mississippi",28115,4364,492939,885.3
+"Prentiss County, Mississippi",28117,4453,432690,1029.1
+"Quitman County, Mississippi",28119,1900,149997,1266.7
+"Rankin County, Mississippi",28121,15755,2275320,692.4
+"Scott County, Mississippi",28123,4714,479497,983.1
+"Sharkey County, Mississippi",28125,1087,92772,1171.7
+"Simpson County, Mississippi",28127,5076,467104,1086.7
+"Smith County, Mississippi",28129,3003,276597,1085.7
+"Stone County, Mississippi",28131,2742,274139,1000.2
+"Sunflower County, Mississippi",28133,5400,526206,1026.2
+"Tallahatchie County, Mississippi",28135,2538,256713,988.7
+"Tate County, Mississippi",28137,4445,464595,956.7
+"Tippah County, Mississippi",28139,4338,367862,1179.2
+"Tishomingo County, Mississippi",28141,4589,329229,1393.9
+"Tunica County, Mississippi",28143,1779,174858,1017.4
+"Union County, Mississippi",28145,4572,453625,1007.9
+"Walthall County, Mississippi",28147,2986,258279,1156.1
+"Warren County, Mississippi",28149,8727,829123,1052.6
+"Washington County, Mississippi",28151,10634,928053,1145.8
+"Wayne County, Mississippi",28153,3582,355829,1006.7
+"Webster County, Mississippi",28155,2454,171842,1428.1
+"Wilkinson County, Mississippi",28157,2169,168859,1284.5
+"Winston County, Mississippi",28159,3833,329631,1162.8
+"Yalobusha County, Mississippi",28161,2777,217557,1276.4
+"Yazoo County, Mississippi",28163,4847,477336,1015.4
+"Beaverhead County, Montana",30001,1349,155306,868.6
+"Big Horn County, Montana",30003,1924,217807,883.4
+"Blaine County, Montana",30005,1159,112811,1027.4
+"Broadwater County, Montana",30007,846,86588,977
+"Carbon County, Montana",30009,1610,169196,951.6
+"Carter County, Montana",30011,244,21034,1160
+"Cascade County, Montana",30013,13135,1373799,956.1
+"Chouteau County, Montana",30015,1035,98849,1047.1
+"Custer County, Montana",30017,2430,198303,1225.4
+"Daniels County, Montana",30019,433,30978,1397.8
+"Dawson County, Montana",30021,1779,153793,1156.7
+"Deer Lodge County, Montana",30023,2121,157633,1345.5
+"Fallon County, Montana",30025,543,48846,1111.7
+"Fergus County, Montana",30027,2645,196739,1344.4
+"Flathead County, Montana",30029,12752,1458827,874.1
+"Gallatin County, Montana",30031,7430,1423001,522.1
+"Garfield County, Montana",30033,219,21377,1024.5
+"Glacier County, Montana",30035,2051,227109,903.1
+"Golden Valley County, Montana",30037,147,15957,921.2
+"Granite County, Montana",30039,474,51381,922.5
+"Hill County, Montana",30041,2516,276404,910.3
+"Jefferson County, Montana",30043,1548,185095,836.3
+"Judith Basin County, Montana",30045,337,36131,932.7
+"Lake County, Montana",30047,4583,477217,960.4
+"Lewis and Clark County, Montana",30049,8787,1031914,851.5
+"Liberty County, Montana",30051,384,38622,994.3
+"Lincoln County, Montana",30053,3688,326261,1130.4
+"McCone County, Montana",30055,310,30244,1025
+"Madison County, Montana",30057,1253,125326,999.8
+"Meagher County, Montana",30059,421,32330,1302.2
+"Mineral County, Montana",30061,785,69641,1127.2
+"Missoula County, Montana",30063,12505,1786279,700.1
+"Musselshell County, Montana",30065,977,76256,1281.2
+"Park County, Montana",30067,2496,266623,936.2
+"Petroleum County, Montana",30069,60,8397,714.5
+"Phillips County, Montana",30071,902,72914,1237.1
+"Pondera County, Montana",30073,1225,105829,1157.5
+"Powder River County, Montana",30075,340,30338,1120.7
+"Powell County, Montana",30077,1222,119368,1023.7
+"Prairie County, Montana",30079,287,19639,1461.4
+"Ravalli County, Montana",30081,6405,665391,962.6
+"Richland County, Montana",30083,1671,168780,990
+"Roosevelt County, Montana",30085,2063,180120,1145.3
+"Rosebud County, Montana",30087,1322,157136,841.3
+"Sanders County, Montana",30089,2094,187346,1117.7
+"Sheridan County, Montana",30091,1014,62173,1630.9
+"Silver Bow County, Montana",30093,7126,578881,1231
+"Stillwater County, Montana",30095,1359,149600,908.4
+"Sweet Grass County, Montana",30097,673,62057,1084.5
+"Teton County, Montana",30099,1094,105079,1041.1
+"Toole County, Montana",30101,886,87537,1012.1
+"Treasure County, Montana",30103,128,12952,988.3
+"Valley County, Montana",30105,1478,127402,1160.1
+"Wheatland County, Montana",30107,423,36395,1162.2
+"Wibaux County, Montana",30109,298,17693,1684.3
+"Yellowstone County, Montana",30111,21589,2416083,893.6
+"Adams County, North Dakota",38001,591,41047,1439.8
+"Barnes County, North Dakota",38003,2348,190759,1230.9
+"Benson County, North Dakota",38005,1153,115069,1002
+"Billings County, North Dakota",38007,77,14277,539.3
+"Bottineau County, North Dakota",38009,1461,113689,1285.1
+"Bowman County, North Dakota",38011,763,53627,1422.8
+"Burke County, North Dakota",38013,410,35848,1143.7
+"Burleigh County, North Dakota",38015,9862,1333458,739.6
+"Cass County, North Dakota",38017,14441,2429529,594.4
+"Cavalier County, North Dakota",38019,952,72098,1320.4
+"Dickey County, North Dakota",38021,1273,92029,1383.3
+"Divide County, North Dakota",38023,572,37263,1535
+"Dunn County, North Dakota",38025,606,63073,960.8
+"Eddy County, North Dakota",38027,790,42969,1838.5
+"Emmons County, North Dakota",38029,931,64244,1449.2
+"Foster County, North Dakota",38031,834,59376,1404.6
+"Golden Valley County, North Dakota",38033,299,30176,990.9
+"Grand Forks County, North Dakota",38035,7575,1141318,663.7
+"Grant County, North Dakota",38037,623,43124,1444.7
+"Griggs County, North Dakota",38039,706,42208,1672.7
+"Hettinger County, North Dakota",38041,600,44221,1356.8
+"Kidder County, North Dakota",38043,480,42841,1120.4
+"LaMoure County, North Dakota",38045,880,73988,1189.4
+"Logan County, North Dakota",38047,503,35167,1430.3
+"McHenry County, North Dakota",38049,1088,96751,1124.5
+"McIntosh County, North Dakota",38051,1034,51471,2008.9
+"McKenzie County, North Dakota",38053,1016,117832,862.2
+"McLean County, North Dakota",38055,1974,155564,1268.9
+"Mercer County, North Dakota",38057,1330,144753,918.8
+"Morton County, North Dakota",38059,4140,455379,909.1
+"Mountrail County, North Dakota",38061,1428,129249,1104.8
+"Nelson County, North Dakota",38063,1090,55812,1953
+"Oliver County, North Dakota",38065,212,32382,654.7
+"Pembina County, North Dakota",38067,1505,131694,1142.8
+"Pierce County, North Dakota",38069,1142,75737,1507.8
+"Ramsey County, North Dakota",38071,2447,196889,1242.8
+"Ransom County, North Dakota",38073,1423,96232,1478.7
+"Renville County, North Dakota",38075,522,42961,1215.1
+"Richland County, North Dakota",38077,2460,287611,855.3
+"Rolette County, North Dakota",38079,2139,236926,902.8
+"Sargent County, North Dakota",38081,634,68823,921.2
+"Sheridan County, North Dakota",38083,242,24625,982.7
+"Sioux County, North Dakota",38085,643,70882,907.1
+"Slope County, North Dakota",38087,70,12686,551.8
+"Stark County, North Dakota",38089,3684,418514,880.3
+"Steele County, North Dakota",38091,314,34932,898.9
+"Stutsman County, North Dakota",38093,3985,361037,1103.8
+"Towner County, North Dakota",38095,598,41870,1428.2
+"Traill County, North Dakota",38097,1694,139986,1210.1
+"Walsh County, North Dakota",38099,2492,195630,1273.8
+"Ward County, North Dakota",38101,8270,1042660,793.2
+"Wells County, North Dakota",38103,1216,76225,1595.3
+"Williams County, North Dakota",38105,3613,392345,920.9
+"Aurora County, South Dakota",46003,565,47761,1183
+"Beadle County, South Dakota",46005,3315,291990,1135.3
+"Bennett County, South Dakota",46007,531,59116,898.2
+"Bon Homme County, South Dakota",46009,1350,120326,1122
+"Brookings County, South Dakota",46011,3196,523110,611
+"Brown County, South Dakota",46013,6155,617907,996.1
+"Brule County, South Dakota",46015,930,88390,1052.2
+"Buffalo County, South Dakota",46017,317,33796,938
+"Butte County, South Dakota",46019,1701,165069,1030.5
+"Campbell County, South Dakota",46021,249,26323,945.9
+"Charles Mix County, South Dakota",46023,1743,155857,1118.3
+"Clark County, South Dakota",46025,819,64803,1263.8
+"Clay County, South Dakota",46027,1583,233954,676.6
+"Codington County, South Dakota",46029,3983,456644,872.2
+"Corson County, South Dakota",46031,701,70372,996.1
+"Custer County, South Dakota",46033,1334,134837,989.3
+"Davison County, South Dakota",46035,3330,328216,1014.6
+"Day County, South Dakota",46037,1422,99040,1435.8
+"Deuel County, South Dakota",46039,823,74653,1102.4
+"Dewey County, South Dakota",46041,984,95498,1030.4
+"Douglas County, South Dakota",46043,739,53682,1376.6
+"Edmunds County, South Dakota",46045,861,70018,1229.7
+"Fall River County, South Dakota",46047,1911,121017,1579.1
+"Faulk County, South Dakota",46049,504,41403,1217.3
+"Grant County, South Dakota",46051,1518,126934,1195.9
+"Gregory County, South Dakota",46053,1181,74640,1582.3
+"Haakon County, South Dakota",46055,448,34164,1311.3
+"Hamlin County, South Dakota",46057,1198,97609,1227.3
+"Hand County, South Dakota",46059,737,59091,1247.2
+"Hanson County, South Dakota",46061,359,56974,630.1
+"Harding County, South Dakota",46063,148,21977,673.4
+"Hughes County, South Dakota",46065,2425,286881,845.3
+"Hutchinson County, South Dakota",46067,1996,127988,1559.5
+"Hyde County, South Dakota",46069,365,25576,1427.1
+"Jackson County, South Dakota",46071,521,51532,1011
+"Jerauld County, South Dakota",46073,486,35735,1360
+"Jones County, South Dakota",46075,152,17767,855.5
+"Kingsbury County, South Dakota",46077,1388,90218,1538.5
+"Lake County, South Dakota",46079,1820,192067,947.6
+"Lawrence County, South Dakota",46081,3514,396255,886.8
+"Lincoln County, South Dakota",46083,3280,653547,501.9
+"Lyman County, South Dakota",46085,550,64783,849
+"McCook County, South Dakota",46087,1246,96845,1286.6
+"McPherson County, South Dakota",46089,648,44098,1469.5
+"Marshall County, South Dakota",46091,916,78305,1169.8
+"Meade County, South Dakota",46093,3194,429653,743.4
+"Mellette County, South Dakota",46095,392,34946,1121.7
+"Miner County, South Dakota",46097,600,42468,1412.8
+"Minnehaha County, South Dakota",46099,20265,2787103,727.1
+"Moody County, South Dakota",46101,982,110572,888.1
+"Pennington County, South Dakota",46103,12330,1653653,745.6
+"Perkins County, South Dakota",46105,741,52422,1413.5
+"Potter County, South Dakota",46107,668,41480,1610.4
+"Roberts County, South Dakota",46109,1957,171593,1140.5
+"Sanborn County, South Dakota",46111,462,41620,1110
+"Oglala Lakota County, South Dakota",46113,2069,227226,910.5
+"Spink County, South Dakota",46115,1356,115350,1175.6
+"Stanley County, South Dakota",46117,309,48714,634.3
+"Sully County, South Dakota",46119,175,24493,714.5
+"Todd County, South Dakota",46121,1370,162120,845.1
+"Tripp County, South Dakota",46123,1268,100066,1267.2
+"Turner County, South Dakota",46125,1804,143854,1254
+"Union County, South Dakota",46127,1844,233062,791.2
+"Walworth County, South Dakota",46129,1406,94578,1486.6
+"Yankton County, South Dakota",46135,3475,376084,924
+"Ziebach County, South Dakota",46137,237,46031,514.9
+,,2384985,246946882,965.8

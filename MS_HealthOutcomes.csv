@@ -1,0 +1,632 @@
+Cause of death,Cause of death Code,County,County Code,Deaths,Population,Crude Rate
+"Septicaemia, unspecified",A41.9,"Alcorn County, Mississippi",28003,14,37388,37.44516957
+"Septicaemia, unspecified",A41.9,"Bolivar County, Mississippi",28011,15,33322,45.0153052
+"Septicaemia, unspecified",A41.9,"DeSoto County, Mississippi",28033,20,173323,11.53914945
+"Septicaemia, unspecified",A41.9,"Forrest County, Mississippi",28035,20,75944,26.33519435
+"Septicaemia, unspecified",A41.9,"Hancock County, Mississippi",28045,11,46420,23.69668246
+"Septicaemia, unspecified",A41.9,"Harrison County, Mississippi",28047,33,201410,16.38448935
+"Septicaemia, unspecified",A41.9,"Hinds County, Mississippi",28049,47,242891,19.35024352
+"Septicaemia, unspecified",A41.9,"Itawamba County, Mississippi",28057,10,23609,42.35672837
+"Septicaemia, unspecified",A41.9,"Jackson County, Mississippi",28059,33,141425,23.33392257
+"Septicaemia, unspecified",A41.9,"Jones County, Mississippi",28067,18,68215,26.38715825
+"Septicaemia, unspecified",A41.9,"Lauderdale County, Mississippi",28075,20,78524,25.46992002
+"Septicaemia, unspecified",A41.9,"Lee County, Mississippi",28081,25,85300,29.30832356
+"Septicaemia, unspecified",A41.9,"Lincoln County, Mississippi",28085,12,34649,34.63303414
+"Septicaemia, unspecified",A41.9,"Lowndes County, Mississippi",28087,17,59710,28.47094289
+"Septicaemia, unspecified",A41.9,"Madison County, Mississippi",28089,13,103465,12.56463538
+"Septicaemia, unspecified",A41.9,"Marion County, Mississippi",28091,11,25563,43.03094316
+"Septicaemia, unspecified",A41.9,"Neshoba County, Mississippi",28099,13,29463,44.12313749
+"Septicaemia, unspecified",A41.9,"Pearl River County, Mississippi",28109,10,55191,18.1188962
+"Septicaemia, unspecified",A41.9,"Rankin County, Mississippi",28121,21,149039,14.09027167
+"Septicaemia, unspecified",A41.9,"Warren County, Mississippi",28149,10,47485,21.05928188
+"Septicaemia, unspecified",A41.9,"Washington County, Mississippi",28151,14,48130,29.08788697
+"Oesophagus, unspecified - Malignant neoplasms",C15.9,"Harrison County, Mississippi",28047,13,201410,6.454495805
+"Stomach, unspecified - Malignant neoplasms",C16.9,"Hinds County, Mississippi",28049,10,242891,4.11707309
+"Colon, unspecified - Malignant neoplasms",C18.9,"Adams County, Mississippi",28001,10,31254,31.99590452
+"Colon, unspecified - Malignant neoplasms",C18.9,"Bolivar County, Mississippi",28011,13,33322,39.01326451
+"Colon, unspecified - Malignant neoplasms",C18.9,"DeSoto County, Mississippi",28033,19,173323,10.96219198
+"Colon, unspecified - Malignant neoplasms",C18.9,"Harrison County, Mississippi",28047,25,201410,12.41249193
+"Colon, unspecified - Malignant neoplasms",C18.9,"Hinds County, Mississippi",28049,35,242891,14.40975582
+"Colon, unspecified - Malignant neoplasms",C18.9,"Jackson County, Mississippi",28059,23,141425,16.26303695
+"Colon, unspecified - Malignant neoplasms",C18.9,"Lauderdale County, Mississippi",28075,22,78524,28.01691203
+"Colon, unspecified - Malignant neoplasms",C18.9,"Lee County, Mississippi",28081,10,85300,11.72332943
+"Colon, unspecified - Malignant neoplasms",C18.9,"Madison County, Mississippi",28089,18,103465,17.39718745
+"Colon, unspecified - Malignant neoplasms",C18.9,"Pearl River County, Mississippi",28109,13,55191,23.55456506
+"Colon, unspecified - Malignant neoplasms",C18.9,"Pike County, Mississippi",28113,10,39956,25.02753028
+"Colon, unspecified - Malignant neoplasms",C18.9,"Rankin County, Mississippi",28121,18,149039,12.07737572
+"Colon, unspecified - Malignant neoplasms",C18.9,"Sunflower County, Mississippi",28133,10,27005,37.0301796
+"Liver, unspecified - Malignant neoplasms",C22.9,"Harrison County, Mississippi",28047,14,201410,6.950995482
+"Liver, unspecified - Malignant neoplasms",C22.9,"Hinds County, Mississippi",28049,11,242891,4.528780399
+"Liver, unspecified - Malignant neoplasms",C22.9,"Rankin County, Mississippi",28121,10,149039,6.709653178
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"DeSoto County, Mississippi",28033,22,173323,12.69306439
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Harrison County, Mississippi",28047,23,201410,11.41949258
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Hinds County, Mississippi",28049,37,242891,15.23317043
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Jackson County, Mississippi",28059,26,141425,18.38430263
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Jones County, Mississippi",28067,12,68215,17.59143883
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Lauderdale County, Mississippi",28075,17,78524,21.64943202
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Lee County, Mississippi",28081,14,85300,16.4126612
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Madison County, Mississippi",28089,22,103465,21.26322911
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Pearl River County, Mississippi",28109,13,55191,23.55456506
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Pike County, Mississippi",28113,11,39956,27.53028331
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Rankin County, Mississippi",28121,15,149039,10.06447977
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Washington County, Mississippi",28151,14,48130,29.08788697
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Adams County, Mississippi",28001,26,31254,83.18935176
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Alcorn County, Mississippi",28003,28,37388,74.89033915
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Amite County, Mississippi",28005,12,12574,95.43502465
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Attala County, Mississippi",28007,18,19043,94.52292181
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Bolivar County, Mississippi",28011,14,33322,42.01428486
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Calhoun County, Mississippi",28013,11,14717,74.74349392
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Clarke County, Mississippi",28023,14,16006,87.4671998
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Clay County, Mississippi",28025,12,20048,59.85634477
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Copiah County, Mississippi",28029,22,28773,76.46057067
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Covington County, Mississippi",28031,10,19543,51.1692166
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"DeSoto County, Mississippi",28033,102,173323,58.84966219
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Forrest County, Mississippi",28035,50,75944,65.83798588
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"George County, Mississippi",28039,19,23373,81.29037779
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Grenada County, Mississippi",28043,20,21578,92.68699601
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Hancock County, Mississippi",28045,39,46420,84.01551056
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Harrison County, Mississippi",28047,140,201410,69.50995482
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Hinds County, Mississippi",28049,95,242891,39.11219436
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Holmes County, Mississippi",28051,19,18340,103.5986914
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Itawamba County, Mississippi",28057,17,23609,72.00643822
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Jackson County, Mississippi",28059,96,141425,67.88050203
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Jasper County, Mississippi",28061,14,16569,84.49514153
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Jones County, Mississippi",28067,48,68215,70.36575533
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lafayette County, Mississippi",28071,28,53154,52.67712684
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lamar County, Mississippi",28073,24,60618,39.59220034
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lauderdale County, Mississippi",28075,35,78524,44.57236004
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lawrence County, Mississippi",28077,10,12622,79.22674695
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lee County, Mississippi",28081,45,85300,52.75498242
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Leflore County, Mississippi",28083,17,30999,54.84047873
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lincoln County, Mississippi",28085,40,34649,115.4434471
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lowndes County, Mississippi",28087,26,59710,43.54379501
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Madison County, Mississippi",28089,53,103465,51.22505195
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Marion County, Mississippi",28091,17,25563,66.5023667
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Marshall County, Mississippi",28093,32,35916,89.09678138
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Monroe County, Mississippi",28095,29,35827,80.94453903
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Neshoba County, Mississippi",28099,19,29463,64.48766249
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Newton County, Mississippi",28101,16,21747,73.57336644
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Oktibbeha County, Mississippi",28105,16,49800,32.12851406
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Panola County, Mississippi",28107,32,34167,93.65762285
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Pearl River County, Mississippi",28109,39,55191,70.66369517
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Perry County, Mississippi",28111,14,12277,114.0343732
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Pike County, Mississippi",28113,33,39956,82.59084993
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Pontotoc County, Mississippi",28115,11,30908,35.58949139
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Prentiss County, Mississippi",28117,20,25459,78.55768098
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Rankin County, Mississippi",28121,62,149039,41.5998497
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Scott County, Mississippi",28123,14,28265,49.53122236
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Simpson County, Mississippi",28127,21,27222,77.14348689
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Smith County, Mississippi",28129,15,16059,93.40556697
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Stone County, Mississippi",28131,11,18070,60.87437742
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Sunflower County, Mississippi",28133,21,27005,77.76337715
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Tate County, Mississippi",28137,18,28296,63.61323155
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Tippah County, Mississippi",28139,21,22131,94.88952149
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Tishomingo County, Mississippi",28141,29,19552,148.3224223
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Union County, Mississippi",28145,16,28429,56.28055858
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Warren County, Mississippi",28149,45,47485,94.76676845
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Washington County, Mississippi",28151,34,48130,70.64201122
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Wayne County, Mississippi",28153,11,20566,53.48633667
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Webster County, Mississippi",28155,13,9899,131.3263966
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Winston County, Mississippi",28159,19,18317,103.7287765
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Yalobusha County, Mississippi",28161,13,12447,104.4428376
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Yazoo County, Mississippi",28163,23,27387,83.98145105
+"Breast, unspecified - Malignant neoplasms",C50.9,"Adams County, Mississippi",28001,14,31254,44.79426633
+"Breast, unspecified - Malignant neoplasms",C50.9,"DeSoto County, Mississippi",28033,26,173323,15.00089428
+"Breast, unspecified - Malignant neoplasms",C50.9,"Forrest County, Mississippi",28035,14,75944,18.43463605
+"Breast, unspecified - Malignant neoplasms",C50.9,"Harrison County, Mississippi",28047,25,201410,12.41249193
+"Breast, unspecified - Malignant neoplasms",C50.9,"Hinds County, Mississippi",28049,26,242891,10.70439004
+"Breast, unspecified - Malignant neoplasms",C50.9,"Jackson County, Mississippi",28059,19,141425,13.43468269
+"Breast, unspecified - Malignant neoplasms",C50.9,"Lauderdale County, Mississippi",28075,10,78524,12.73496001
+"Breast, unspecified - Malignant neoplasms",C50.9,"Lowndes County, Mississippi",28087,12,59710,20.09713616
+"Breast, unspecified - Malignant neoplasms",C50.9,"Madison County, Mississippi",28089,19,103465,18.36369787
+"Breast, unspecified - Malignant neoplasms",C50.9,"Marshall County, Mississippi",28093,11,35916,30.6270186
+"Breast, unspecified - Malignant neoplasms",C50.9,"Pearl River County, Mississippi",28109,10,55191,18.1188962
+"Breast, unspecified - Malignant neoplasms",C50.9,"Rankin County, Mississippi",28121,11,149039,7.380618496
+"Breast, unspecified - Malignant neoplasms",C50.9,"Tishomingo County, Mississippi",28141,10,19552,51.14566285
+"Breast, unspecified - Malignant neoplasms",C50.9,"Washington County, Mississippi",28151,10,48130,20.77706212
+Malignant neoplasm of prostate,C61,"Copiah County, Mississippi",28029,10,28773,34.75480485
+Malignant neoplasm of prostate,C61,"Harrison County, Mississippi",28047,29,201410,14.39849064
+Malignant neoplasm of prostate,C61,"Hinds County, Mississippi",28049,25,242891,10.29268273
+Malignant neoplasm of prostate,C61,"Jackson County, Mississippi",28059,10,141425,7.070885628
+Malignant neoplasm of prostate,C61,"Jones County, Mississippi",28067,10,68215,14.65953236
+Malignant neoplasm of prostate,C61,"Lee County, Mississippi",28081,14,85300,16.4126612
+"Malignant neoplasm of kidney, except renal pelvis",C64,"Harrison County, Mississippi",28047,15,201410,7.447495159
+"Malignant neoplasm of kidney, except renal pelvis",C64,"Hinds County, Mississippi",28049,12,242891,4.940487708
+"Malignant neoplasm of kidney, except renal pelvis",C64,"Rankin County, Mississippi",28121,12,149039,8.051583814
+"Bladder, unspecified - Malignant neoplasms",C67.9,"Harrison County, Mississippi",28047,10,201410,4.964996773
+"Brain, unspecified - Malignant neoplasms",C71.9,"DeSoto County, Mississippi",28033,11,173323,6.346532197
+"Brain, unspecified - Malignant neoplasms",C71.9,"Hinds County, Mississippi",28049,10,242891,4.11707309
+"Brain, unspecified - Malignant neoplasms",C71.9,"Madison County, Mississippi",28089,12,103465,11.59812497
+Malignant neoplasm without specification of site,C80,"DeSoto County, Mississippi",28033,15,173323,8.654362087
+Malignant neoplasm without specification of site,C80,"Harrison County, Mississippi",28047,18,201410,8.936994191
+Malignant neoplasm without specification of site,C80,"Hinds County, Mississippi",28049,10,242891,4.11707309
+Malignant neoplasm without specification of site,C80,"Jackson County, Mississippi",28059,25,141425,17.67721407
+Malignant neoplasm without specification of site,C80,"Rankin County, Mississippi",28121,29,149039,19.45799422
+Multiple myeloma - Malignant neoplasms,C90.0,"Hinds County, Mississippi",28049,16,242891,6.587316945
+"Unspecified diabetes mellitus, with renal complications",E14.2,"Adams County, Mississippi",28001,10,31254,31.99590452
+"Unspecified diabetes mellitus, with renal complications",E14.2,"DeSoto County, Mississippi",28033,13,173323,7.500447142
+"Unspecified diabetes mellitus, with renal complications",E14.2,"Forrest County, Mississippi",28035,10,75944,13.16759718
+"Unspecified diabetes mellitus, with renal complications",E14.2,"Hinds County, Mississippi",28049,21,242891,8.64585349
+"Unspecified diabetes mellitus, with renal complications",E14.2,"Jackson County, Mississippi",28059,10,141425,7.070885628
+"Unspecified diabetes mellitus, with renal complications",E14.2,"Oktibbeha County, Mississippi",28105,12,49800,24.09638554
+"Unspecified diabetes mellitus, with renal complications",E14.2,"Pike County, Mississippi",28113,13,39956,32.53578937
+"Unspecified diabetes mellitus, without complications",E14.9,"Adams County, Mississippi",28001,11,31254,35.19549498
+"Unspecified diabetes mellitus, without complications",E14.9,"Attala County, Mississippi",28007,13,19043,68.26655464
+"Unspecified diabetes mellitus, without complications",E14.9,"Bolivar County, Mississippi",28011,14,33322,42.01428486
+"Unspecified diabetes mellitus, without complications",E14.9,"Coahoma County, Mississippi",28027,29,24620,117.7904143
+"Unspecified diabetes mellitus, without complications",E14.9,"DeSoto County, Mississippi",28033,62,173323,35.77136329
+"Unspecified diabetes mellitus, without complications",E14.9,"Forrest County, Mississippi",28035,17,75944,22.3849152
+"Unspecified diabetes mellitus, without complications",E14.9,"George County, Mississippi",28039,11,23373,47.0628503
+"Unspecified diabetes mellitus, without complications",E14.9,"Hinds County, Mississippi",28049,27,242891,11.11609734
+"Unspecified diabetes mellitus, without complications",E14.9,"Jones County, Mississippi",28067,22,68215,32.25097119
+"Unspecified diabetes mellitus, without complications",E14.9,"Leflore County, Mississippi",28083,18,30999,58.06638924
+"Unspecified diabetes mellitus, without complications",E14.9,"Madison County, Mississippi",28089,27,103465,26.09578118
+"Unspecified diabetes mellitus, without complications",E14.9,"Marshall County, Mississippi",28093,26,35916,72.39113487
+"Unspecified diabetes mellitus, without complications",E14.9,"Newton County, Mississippi",28101,13,21747,59.77836023
+"Unspecified diabetes mellitus, without complications",E14.9,"Oktibbeha County, Mississippi",28105,13,49800,26.10441767
+"Unspecified diabetes mellitus, without complications",E14.9,"Pearl River County, Mississippi",28109,16,55191,28.99023391
+"Unspecified diabetes mellitus, without complications",E14.9,"Pike County, Mississippi",28113,36,39956,90.09910902
+"Unspecified diabetes mellitus, without complications",E14.9,"Rankin County, Mississippi",28121,20,149039,13.41930636
+"Unspecified diabetes mellitus, without complications",E14.9,"Sunflower County, Mississippi",28133,12,27005,44.43621552
+"Unspecified diabetes mellitus, without complications",E14.9,"Tate County, Mississippi",28137,10,28296,35.3406842
+"Unspecified diabetes mellitus, without complications",E14.9,"Warren County, Mississippi",28149,14,47485,29.48299463
+"Unspecified diabetes mellitus, without complications",E14.9,"Washington County, Mississippi",28151,34,48130,70.64201122
+"Unspecified diabetes mellitus, without complications",E14.9,"Yazoo County, Mississippi",28163,21,27387,76.67871618
+Unspecified dementia,F03,"Adams County, Mississippi",28001,14,31254,44.79426633
+Unspecified dementia,F03,"Clay County, Mississippi",28025,16,20048,79.8084597
+Unspecified dementia,F03,"DeSoto County, Mississippi",28033,19,173323,10.96219198
+Unspecified dementia,F03,"Hancock County, Mississippi",28045,12,46420,25.85092632
+Unspecified dementia,F03,"Harrison County, Mississippi",28047,56,201410,27.80398193
+Unspecified dementia,F03,"Hinds County, Mississippi",28049,74,242891,30.46634087
+Unspecified dementia,F03,"Jackson County, Mississippi",28059,29,141425,20.50556832
+Unspecified dementia,F03,"Jones County, Mississippi",28067,10,68215,14.65953236
+Unspecified dementia,F03,"Lafayette County, Mississippi",28071,18,53154,33.86386725
+Unspecified dementia,F03,"Lauderdale County, Mississippi",28075,45,78524,57.30732006
+Unspecified dementia,F03,"Lee County, Mississippi",28081,27,85300,31.65298945
+Unspecified dementia,F03,"Lincoln County, Mississippi",28085,13,34649,37.51912032
+Unspecified dementia,F03,"Lowndes County, Mississippi",28087,23,59710,38.51951097
+Unspecified dementia,F03,"Madison County, Mississippi",28089,36,103465,34.79437491
+Unspecified dementia,F03,"Monroe County, Mississippi",28095,10,35827,27.91191001
+Unspecified dementia,F03,"Pearl River County, Mississippi",28109,15,55191,27.1783443
+Unspecified dementia,F03,"Rankin County, Mississippi",28121,57,149039,38.24502311
+Unspecified dementia,F03,"Tippah County, Mississippi",28139,12,22131,54.22258371
+Unspecified dementia,F03,"Washington County, Mississippi",28151,33,48130,68.56430501
+Unspecified dementia,F03,"Wayne County, Mississippi",28153,10,20566,48.62394243
+Parkinson's disease,G20,"DeSoto County, Mississippi",28033,15,173323,8.654362087
+Parkinson's disease,G20,"Forrest County, Mississippi",28035,12,75944,15.80111661
+Parkinson's disease,G20,"Harrison County, Mississippi",28047,13,201410,6.454495805
+Parkinson's disease,G20,"Hinds County, Mississippi",28049,10,242891,4.11707309
+Parkinson's disease,G20,"Jackson County, Mississippi",28059,20,141425,14.14177126
+Parkinson's disease,G20,"Jones County, Mississippi",28067,11,68215,16.1254856
+"Alzheimer's disease, unspecified",G30.9,"Adams County, Mississippi",28001,17,31254,54.39303769
+"Alzheimer's disease, unspecified",G30.9,"Alcorn County, Mississippi",28003,14,37388,37.44516957
+"Alzheimer's disease, unspecified",G30.9,"Attala County, Mississippi",28007,24,19043,126.0305624
+"Alzheimer's disease, unspecified",G30.9,"Bolivar County, Mississippi",28011,13,33322,39.01326451
+"Alzheimer's disease, unspecified",G30.9,"Clay County, Mississippi",28025,11,20048,54.86831604
+"Alzheimer's disease, unspecified",G30.9,"Copiah County, Mississippi",28029,13,28773,45.18124631
+"Alzheimer's disease, unspecified",G30.9,"Covington County, Mississippi",28031,33,19543,168.8584148
+"Alzheimer's disease, unspecified",G30.9,"DeSoto County, Mississippi",28033,91,173323,52.50312999
+"Alzheimer's disease, unspecified",G30.9,"Forrest County, Mississippi",28035,44,75944,57.93742758
+"Alzheimer's disease, unspecified",G30.9,"Greene County, Mississippi",28041,11,13522,81.34891288
+"Alzheimer's disease, unspecified",G30.9,"Grenada County, Mississippi",28043,14,21578,64.88089721
+"Alzheimer's disease, unspecified",G30.9,"Hancock County, Mississippi",28045,18,46420,38.77638949
+"Alzheimer's disease, unspecified",G30.9,"Harrison County, Mississippi",28047,70,201410,34.75497741
+"Alzheimer's disease, unspecified",G30.9,"Hinds County, Mississippi",28049,100,242891,41.1707309
+"Alzheimer's disease, unspecified",G30.9,"Itawamba County, Mississippi",28057,19,23609,80.4777839
+"Alzheimer's disease, unspecified",G30.9,"Jackson County, Mississippi",28059,44,141425,31.11189677
+"Alzheimer's disease, unspecified",G30.9,"Jones County, Mississippi",28067,50,68215,73.2976618
+"Alzheimer's disease, unspecified",G30.9,"Lafayette County, Mississippi",28071,23,53154,43.27049705
+"Alzheimer's disease, unspecified",G30.9,"Lamar County, Mississippi",28073,24,60618,39.59220034
+"Alzheimer's disease, unspecified",G30.9,"Lauderdale County, Mississippi",28075,44,78524,56.03382405
+"Alzheimer's disease, unspecified",G30.9,"Leake County, Mississippi",28079,14,22763,61.50331679
+"Alzheimer's disease, unspecified",G30.9,"Lee County, Mississippi",28081,51,85300,59.78898007
+"Alzheimer's disease, unspecified",G30.9,"Leflore County, Mississippi",28083,10,30999,32.25910513
+"Alzheimer's disease, unspecified",G30.9,"Lincoln County, Mississippi",28085,19,34649,54.83563739
+"Alzheimer's disease, unspecified",G30.9,"Lowndes County, Mississippi",28087,30,59710,50.2428404
+"Alzheimer's disease, unspecified",G30.9,"Madison County, Mississippi",28089,60,103465,57.99062485
+"Alzheimer's disease, unspecified",G30.9,"Marion County, Mississippi",28091,22,25563,86.06188632
+"Alzheimer's disease, unspecified",G30.9,"Marshall County, Mississippi",28093,14,35916,38.97984185
+"Alzheimer's disease, unspecified",G30.9,"Monroe County, Mississippi",28095,27,35827,75.36215703
+"Alzheimer's disease, unspecified",G30.9,"Neshoba County, Mississippi",28099,30,29463,101.822625
+"Alzheimer's disease, unspecified",G30.9,"Newton County, Mississippi",28101,14,21747,64.37669564
+"Alzheimer's disease, unspecified",G30.9,"Oktibbeha County, Mississippi",28105,14,49800,28.1124498
+"Alzheimer's disease, unspecified",G30.9,"Panola County, Mississippi",28107,17,34167,49.75561214
+"Alzheimer's disease, unspecified",G30.9,"Pearl River County, Mississippi",28109,24,55191,43.48535087
+"Alzheimer's disease, unspecified",G30.9,"Pike County, Mississippi",28113,13,39956,32.53578937
+"Alzheimer's disease, unspecified",G30.9,"Pontotoc County, Mississippi",28115,11,30908,35.58949139
+"Alzheimer's disease, unspecified",G30.9,"Prentiss County, Mississippi",28117,21,25459,82.48556503
+"Alzheimer's disease, unspecified",G30.9,"Rankin County, Mississippi",28121,17,149039,11.4064104
+"Alzheimer's disease, unspecified",G30.9,"Scott County, Mississippi",28123,12,28265,42.45533345
+"Alzheimer's disease, unspecified",G30.9,"Tallahatchie County, Mississippi",28135,10,14588,68.54949273
+"Alzheimer's disease, unspecified",G30.9,"Tate County, Mississippi",28137,13,28296,45.94288945
+"Alzheimer's disease, unspecified",G30.9,"Tishomingo County, Mississippi",28141,13,19552,66.4893617
+"Alzheimer's disease, unspecified",G30.9,"Union County, Mississippi",28145,12,28429,42.21041894
+"Alzheimer's disease, unspecified",G30.9,"Warren County, Mississippi",28149,31,47485,65.28377382
+"Alzheimer's disease, unspecified",G30.9,"Wayne County, Mississippi",28153,13,20566,63.21112516
+"Alzheimer's disease, unspecified",G30.9,"Webster County, Mississippi",28155,14,9899,141.4284271
+"Alzheimer's disease, unspecified",G30.9,"Yalobusha County, Mississippi",28161,14,12447,112.4769021
+"Senile degeneration of brain, not elsewhere classified",G31.1,"Harrison County, Mississippi",28047,12,201410,5.957996127
+"Senile degeneration of brain, not elsewhere classified",G31.1,"Hinds County, Mississippi",28049,11,242891,4.528780399
+"Anoxic brain damage, not elsewhere classified",G93.1,"Harrison County, Mississippi",28047,10,201410,4.964996773
+"Anoxic brain damage, not elsewhere classified",G93.1,"Hinds County, Mississippi",28049,12,242891,4.940487708
+Essential (primary) hypertension,I10,"Bolivar County, Mississippi",28011,16,33322,48.01632555
+Essential (primary) hypertension,I10,"DeSoto County, Mississippi",28033,25,173323,14.42393681
+Essential (primary) hypertension,I10,"Hinds County, Mississippi",28049,32,242891,13.17463389
+Essential (primary) hypertension,I10,"Holmes County, Mississippi",28051,10,18340,54.52562704
+Essential (primary) hypertension,I10,"Jackson County, Mississippi",28059,10,141425,7.070885628
+Essential (primary) hypertension,I10,"Jones County, Mississippi",28067,14,68215,20.52334531
+Essential (primary) hypertension,I10,"Lee County, Mississippi",28081,13,85300,15.24032825
+Essential (primary) hypertension,I10,"Marshall County, Mississippi",28093,32,35916,89.09678138
+Essential (primary) hypertension,I10,"Pike County, Mississippi",28113,23,39956,57.56331965
+Essential (primary) hypertension,I10,"Rankin County, Mississippi",28121,21,149039,14.09027167
+Essential (primary) hypertension,I10,"Washington County, Mississippi",28151,26,48130,54.02036152
+Hypertensive heart disease with (congestive) heart failure,I11.0,"DeSoto County, Mississippi",28033,12,173323,6.92348967
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Forrest County, Mississippi",28035,11,75944,14.48435689
+Hypertensive heart disease with (congestive) heart failure,I11.0,"George County, Mississippi",28039,12,23373,51.34129123
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Harrison County, Mississippi",28047,27,201410,13.40549129
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Hinds County, Mississippi",28049,48,242891,19.76195083
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Jones County, Mississippi",28067,10,68215,14.65953236
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Leflore County, Mississippi",28083,16,30999,51.61456821
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Madison County, Mississippi",28089,14,103465,13.5311458
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Sunflower County, Mississippi",28133,10,27005,37.0301796
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Tate County, Mississippi",28137,16,28296,56.54509471
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Warren County, Mississippi",28149,10,47485,21.05928188
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Amite County, Mississippi",28005,27,12574,214.7288055
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Harrison County, Mississippi",28047,97,201410,48.1604687
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Hinds County, Mississippi",28049,75,242891,30.87804818
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Jackson County, Mississippi",28059,18,141425,12.72759413
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Madison County, Mississippi",28089,17,103465,16.43067704
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Panola County, Mississippi",28107,38,34167,111.2184271
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Rankin County, Mississippi",28121,11,149039,7.380618496
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Tate County, Mississippi",28137,11,28296,38.87475262
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Walthall County, Mississippi",28147,10,14638,68.31534363
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Warren County, Mississippi",28149,24,47485,50.54227651
+Hypertensive renal disease with renal failure,I12.0,"DeSoto County, Mississippi",28033,12,173323,6.92348967
+Hypertensive renal disease with renal failure,I12.0,"Hinds County, Mississippi",28049,12,242891,4.940487708
+"Acute myocardial infarction, unspecified",I21.9,"Adams County, Mississippi",28001,16,31254,51.19344724
+"Acute myocardial infarction, unspecified",I21.9,"Alcorn County, Mississippi",28003,29,37388,77.56499412
+"Acute myocardial infarction, unspecified",I21.9,"Attala County, Mississippi",28007,10,19043,52.51273434
+"Acute myocardial infarction, unspecified",I21.9,"Bolivar County, Mississippi",28011,30,33322,90.03061041
+"Acute myocardial infarction, unspecified",I21.9,"Calhoun County, Mississippi",28013,14,14717,95.12808317
+"Acute myocardial infarction, unspecified",I21.9,"Carroll County, Mississippi",28015,12,10243,117.1531778
+"Acute myocardial infarction, unspecified",I21.9,"Chickasaw County, Mississippi",28017,23,17328,132.7331487
+"Acute myocardial infarction, unspecified",I21.9,"Claiborne County, Mississippi",28021,10,9150,109.2896175
+"Acute myocardial infarction, unspecified",I21.9,"Clarke County, Mississippi",28023,15,16006,93.71485693
+"Acute myocardial infarction, unspecified",I21.9,"Clay County, Mississippi",28025,26,20048,129.688747
+"Acute myocardial infarction, unspecified",I21.9,"Coahoma County, Mississippi",28027,20,24620,81.23476848
+"Acute myocardial infarction, unspecified",I21.9,"Copiah County, Mississippi",28029,16,28773,55.60768776
+"Acute myocardial infarction, unspecified",I21.9,"Covington County, Mississippi",28031,23,19543,117.6891982
+"Acute myocardial infarction, unspecified",I21.9,"DeSoto County, Mississippi",28033,55,173323,31.73266099
+"Acute myocardial infarction, unspecified",I21.9,"Forrest County, Mississippi",28035,54,75944,71.10502476
+"Acute myocardial infarction, unspecified",I21.9,"George County, Mississippi",28039,11,23373,47.0628503
+"Acute myocardial infarction, unspecified",I21.9,"Greene County, Mississippi",28041,22,13522,162.6978258
+"Acute myocardial infarction, unspecified",I21.9,"Grenada County, Mississippi",28043,14,21578,64.88089721
+"Acute myocardial infarction, unspecified",I21.9,"Hancock County, Mississippi",28045,10,46420,21.5424386
+"Acute myocardial infarction, unspecified",I21.9,"Harrison County, Mississippi",28047,29,201410,14.39849064
+"Acute myocardial infarction, unspecified",I21.9,"Hinds County, Mississippi",28049,100,242891,41.1707309
+"Acute myocardial infarction, unspecified",I21.9,"Itawamba County, Mississippi",28057,25,23609,105.8918209
+"Acute myocardial infarction, unspecified",I21.9,"Jackson County, Mississippi",28059,53,141425,37.47569383
+"Acute myocardial infarction, unspecified",I21.9,"Jasper County, Mississippi",28061,10,16569,60.35367252
+"Acute myocardial infarction, unspecified",I21.9,"Jones County, Mississippi",28067,30,68215,43.97859708
+"Acute myocardial infarction, unspecified",I21.9,"Lafayette County, Mississippi",28071,23,53154,43.27049705
+"Acute myocardial infarction, unspecified",I21.9,"Lamar County, Mississippi",28073,44,60618,72.58570062
+"Acute myocardial infarction, unspecified",I21.9,"Lauderdale County, Mississippi",28075,152,78524,193.5713922
+"Acute myocardial infarction, unspecified",I21.9,"Leake County, Mississippi",28079,11,22763,48.32403462
+"Acute myocardial infarction, unspecified",I21.9,"Lee County, Mississippi",28081,42,85300,49.23798359
+"Acute myocardial infarction, unspecified",I21.9,"Leflore County, Mississippi",28083,31,30999,100.0032259
+"Acute myocardial infarction, unspecified",I21.9,"Lincoln County, Mississippi",28085,13,34649,37.51912032
+"Acute myocardial infarction, unspecified",I21.9,"Lowndes County, Mississippi",28087,35,59710,58.61664713
+"Acute myocardial infarction, unspecified",I21.9,"Madison County, Mississippi",28089,21,103465,20.2967187
+"Acute myocardial infarction, unspecified",I21.9,"Marshall County, Mississippi",28093,13,35916,36.19556744
+"Acute myocardial infarction, unspecified",I21.9,"Monroe County, Mississippi",28095,49,35827,136.7683591
+"Acute myocardial infarction, unspecified",I21.9,"Neshoba County, Mississippi",28099,40,29463,135.7635
+"Acute myocardial infarction, unspecified",I21.9,"Newton County, Mississippi",28101,17,21747,78.17170184
+"Acute myocardial infarction, unspecified",I21.9,"Noxubee County, Mississippi",28103,13,11043,117.7216336
+"Acute myocardial infarction, unspecified",I21.9,"Oktibbeha County, Mississippi",28105,32,49800,64.25702811
+"Acute myocardial infarction, unspecified",I21.9,"Panola County, Mississippi",28107,21,34167,61.462815
+"Acute myocardial infarction, unspecified",I21.9,"Pearl River County, Mississippi",28109,48,55191,86.97070174
+"Acute myocardial infarction, unspecified",I21.9,"Perry County, Mississippi",28111,20,12277,162.9062475
+"Acute myocardial infarction, unspecified",I21.9,"Pike County, Mississippi",28113,12,39956,30.03303634
+"Acute myocardial infarction, unspecified",I21.9,"Pontotoc County, Mississippi",28115,21,30908,67.94357448
+"Acute myocardial infarction, unspecified",I21.9,"Rankin County, Mississippi",28121,83,149039,55.69012138
+"Acute myocardial infarction, unspecified",I21.9,"Scott County, Mississippi",28123,13,28265,45.99327791
+"Acute myocardial infarction, unspecified",I21.9,"Simpson County, Mississippi",28127,18,27222,66.12298876
+"Acute myocardial infarction, unspecified",I21.9,"Smith County, Mississippi",28129,23,16059,143.2218694
+"Acute myocardial infarction, unspecified",I21.9,"Stone County, Mississippi",28131,20,18070,110.6806862
+"Acute myocardial infarction, unspecified",I21.9,"Sunflower County, Mississippi",28133,15,27005,55.54526939
+"Acute myocardial infarction, unspecified",I21.9,"Tate County, Mississippi",28137,14,28296,49.47695787
+"Acute myocardial infarction, unspecified",I21.9,"Tippah County, Mississippi",28139,25,22131,112.9637161
+"Acute myocardial infarction, unspecified",I21.9,"Tishomingo County, Mississippi",28141,16,19552,81.83306056
+"Acute myocardial infarction, unspecified",I21.9,"Tunica County, Mississippi",28143,12,10343,116.020497
+"Acute myocardial infarction, unspecified",I21.9,"Union County, Mississippi",28145,34,28429,119.596187
+"Acute myocardial infarction, unspecified",I21.9,"Warren County, Mississippi",28149,42,47485,88.44898389
+"Acute myocardial infarction, unspecified",I21.9,"Washington County, Mississippi",28151,21,48130,43.63183046
+"Acute myocardial infarction, unspecified",I21.9,"Wayne County, Mississippi",28153,30,20566,145.8718273
+"Acute myocardial infarction, unspecified",I21.9,"Winston County, Mississippi",28159,17,18317,92.80995796
+"Acute myocardial infarction, unspecified",I21.9,"Yalobusha County, Mississippi",28161,13,12447,104.4428376
+"Acute myocardial infarction, unspecified",I21.9,"Yazoo County, Mississippi",28163,17,27387,62.07324643
+"Atherosclerotic cardiovascular disease, so described",I25.0,"DeSoto County, Mississippi",28033,71,173323,40.96398054
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Hinds County, Mississippi",28049,14,242891,5.763902327
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Jackson County, Mississippi",28059,10,141425,7.070885628
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Lawrence County, Mississippi",28077,10,12622,79.22674695
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Lee County, Mississippi",28081,17,85300,19.92966002
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Warren County, Mississippi",28149,29,47485,61.07191745
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Webster County, Mississippi",28155,10,9899,101.0203051
+Atherosclerotic heart disease,I25.1,"Adams County, Mississippi",28001,18,31254,57.59262814
+Atherosclerotic heart disease,I25.1,"Alcorn County, Mississippi",28003,22,37388,58.84240933
+Atherosclerotic heart disease,I25.1,"Attala County, Mississippi",28007,10,19043,52.51273434
+Atherosclerotic heart disease,I25.1,"Benton County, Mississippi",28009,15,8182,183.3292593
+Atherosclerotic heart disease,I25.1,"Chickasaw County, Mississippi",28017,10,17328,57.71006464
+Atherosclerotic heart disease,I25.1,"Clarke County, Mississippi",28023,13,16006,81.21954267
+Atherosclerotic heart disease,I25.1,"Coahoma County, Mississippi",28027,10,24620,40.61738424
+Atherosclerotic heart disease,I25.1,"Covington County, Mississippi",28031,11,19543,56.28613826
+Atherosclerotic heart disease,I25.1,"DeSoto County, Mississippi",28033,36,173323,20.77046901
+Atherosclerotic heart disease,I25.1,"Forrest County, Mississippi",28035,44,75944,57.93742758
+Atherosclerotic heart disease,I25.1,"Hancock County, Mississippi",28045,34,46420,73.24429125
+Atherosclerotic heart disease,I25.1,"Harrison County, Mississippi",28047,274,201410,136.0409116
+Atherosclerotic heart disease,I25.1,"Hinds County, Mississippi",28049,63,242891,25.93756047
+Atherosclerotic heart disease,I25.1,"Jackson County, Mississippi",28059,100,141425,70.70885628
+Atherosclerotic heart disease,I25.1,"Jones County, Mississippi",28067,20,68215,29.31906472
+Atherosclerotic heart disease,I25.1,"Lafayette County, Mississippi",28071,12,53154,22.5759115
+Atherosclerotic heart disease,I25.1,"Lamar County, Mississippi",28073,21,60618,34.64317529
+Atherosclerotic heart disease,I25.1,"Lauderdale County, Mississippi",28075,12,78524,15.28195201
+Atherosclerotic heart disease,I25.1,"Lee County, Mississippi",28081,34,85300,39.85932005
+Atherosclerotic heart disease,I25.1,"Leflore County, Mississippi",28083,26,30999,83.87367334
+Atherosclerotic heart disease,I25.1,"Lincoln County, Mississippi",28085,13,34649,37.51912032
+Atherosclerotic heart disease,I25.1,"Lowndes County, Mississippi",28087,21,59710,35.16998828
+Atherosclerotic heart disease,I25.1,"Madison County, Mississippi",28089,51,103465,49.29203112
+Atherosclerotic heart disease,I25.1,"Marshall County, Mississippi",28093,16,35916,44.54839069
+Atherosclerotic heart disease,I25.1,"Monroe County, Mississippi",28095,13,35827,36.28548302
+Atherosclerotic heart disease,I25.1,"Panola County, Mississippi",28107,11,34167,32.19480786
+Atherosclerotic heart disease,I25.1,"Pearl River County, Mississippi",28109,29,55191,52.54479897
+Atherosclerotic heart disease,I25.1,"Perry County, Mississippi",28111,10,12277,81.45312373
+Atherosclerotic heart disease,I25.1,"Pike County, Mississippi",28113,27,39956,67.57433176
+Atherosclerotic heart disease,I25.1,"Pontotoc County, Mississippi",28115,13,30908,42.06030801
+Atherosclerotic heart disease,I25.1,"Prentiss County, Mississippi",28117,18,25459,70.70191288
+Atherosclerotic heart disease,I25.1,"Rankin County, Mississippi",28121,22,149039,14.76123699
+Atherosclerotic heart disease,I25.1,"Sunflower County, Mississippi",28133,16,27005,59.24828735
+Atherosclerotic heart disease,I25.1,"Tate County, Mississippi",28137,13,28296,45.94288945
+Atherosclerotic heart disease,I25.1,"Tishomingo County, Mississippi",28141,11,19552,56.26022913
+Atherosclerotic heart disease,I25.1,"Union County, Mississippi",28145,15,28429,52.76302367
+Atherosclerotic heart disease,I25.1,"Walthall County, Mississippi",28147,13,14638,88.80994671
+Atherosclerotic heart disease,I25.1,"Washington County, Mississippi",28151,11,48130,22.85476834
+Atherosclerotic heart disease,I25.1,"Wayne County, Mississippi",28153,11,20566,53.48633667
+Atherosclerotic heart disease,I25.1,"Winston County, Mississippi",28159,15,18317,81.89113938
+Aortic (valve) stenosis,I35.0,"Jackson County, Mississippi",28059,10,141425,7.070885628
+"Cardiomyopathy, unspecified",I42.9,"Harrison County, Mississippi",28047,10,201410,4.964996773
+"Cardiomyopathy, unspecified",I42.9,"Hinds County, Mississippi",28049,18,242891,7.410731563
+"Sudden cardiac death, so described",I46.1,"Quitman County, Mississippi",28119,11,7486,146.9409565
+"Sudden cardiac death, so described",I46.1,"Rankin County, Mississippi",28121,30,149039,20.12895953
+"Sudden cardiac death, so described",I46.1,"Scott County, Mississippi",28123,15,28265,53.06916681
+"Cardiac arrest, unspecified",I46.9,"Alcorn County, Mississippi",28003,17,37388,45.46913448
+"Cardiac arrest, unspecified",I46.9,"Copiah County, Mississippi",28029,24,28773,83.41153164
+"Cardiac arrest, unspecified",I46.9,"Grenada County, Mississippi",28043,17,21578,78.78394661
+"Cardiac arrest, unspecified",I46.9,"Hinds County, Mississippi",28049,20,242891,8.234146181
+"Cardiac arrest, unspecified",I46.9,"Holmes County, Mississippi",28051,15,18340,81.78844057
+"Cardiac arrest, unspecified",I46.9,"Jones County, Mississippi",28067,18,68215,26.38715825
+"Cardiac arrest, unspecified",I46.9,"Neshoba County, Mississippi",28099,21,29463,71.27583749
+"Cardiac arrest, unspecified",I46.9,"Rankin County, Mississippi",28121,23,149039,15.43220231
+Atrial fibrillation and flutter,I48,"Forrest County, Mississippi",28035,10,75944,13.16759718
+Atrial fibrillation and flutter,I48,"Hinds County, Mississippi",28049,16,242891,6.587316945
+Atrial fibrillation and flutter,I48,"Jackson County, Mississippi",28059,23,141425,16.26303695
+"Cardiac arrhythmia, unspecified",I49.9,"Jackson County, Mississippi",28059,31,141425,21.91974545
+Congestive heart failure,I50.0,"Adams County, Mississippi",28001,17,31254,54.39303769
+Congestive heart failure,I50.0,"Alcorn County, Mississippi",28003,38,37388,101.6368888
+Congestive heart failure,I50.0,"Attala County, Mississippi",28007,11,19043,57.76400777
+Congestive heart failure,I50.0,"Bolivar County, Mississippi",28011,22,33322,66.02244763
+Congestive heart failure,I50.0,"Calhoun County, Mississippi",28013,13,14717,88.33322009
+Congestive heart failure,I50.0,"Chickasaw County, Mississippi",28017,16,17328,92.33610342
+Congestive heart failure,I50.0,"Claiborne County, Mississippi",28021,10,9150,109.2896175
+Congestive heart failure,I50.0,"Clarke County, Mississippi",28023,11,16006,68.72422841
+Congestive heart failure,I50.0,"Clay County, Mississippi",28025,13,20048,64.8443735
+Congestive heart failure,I50.0,"Covington County, Mississippi",28031,14,19543,71.63690324
+Congestive heart failure,I50.0,"DeSoto County, Mississippi",28033,55,173323,31.73266099
+Congestive heart failure,I50.0,"Forrest County, Mississippi",28035,19,75944,25.01843464
+Congestive heart failure,I50.0,"George County, Mississippi",28039,22,23373,94.12570059
+Congestive heart failure,I50.0,"Grenada County, Mississippi",28043,13,21578,60.24654741
+Congestive heart failure,I50.0,"Hancock County, Mississippi",28045,35,46420,75.39853511
+Congestive heart failure,I50.0,"Harrison County, Mississippi",28047,27,201410,13.40549129
+Congestive heart failure,I50.0,"Hinds County, Mississippi",28049,97,242891,39.93560898
+Congestive heart failure,I50.0,"Itawamba County, Mississippi",28057,23,23609,97.42047524
+Congestive heart failure,I50.0,"Jackson County, Mississippi",28059,34,141425,24.04101114
+Congestive heart failure,I50.0,"Jasper County, Mississippi",28061,11,16569,66.38903977
+Congestive heart failure,I50.0,"Jefferson Davis County, Mississippi",28065,16,11665,137.1624518
+Congestive heart failure,I50.0,"Jones County, Mississippi",28067,47,68215,68.8998021
+Congestive heart failure,I50.0,"Lafayette County, Mississippi",28071,33,53154,62.08375663
+Congestive heart failure,I50.0,"Lamar County, Mississippi",28073,14,60618,23.0954502
+Congestive heart failure,I50.0,"Lauderdale County, Mississippi",28075,45,78524,57.30732006
+Congestive heart failure,I50.0,"Lee County, Mississippi",28081,34,85300,39.85932005
+Congestive heart failure,I50.0,"Lincoln County, Mississippi",28085,25,34649,72.15215446
+Congestive heart failure,I50.0,"Lowndes County, Mississippi",28087,17,59710,28.47094289
+Congestive heart failure,I50.0,"Madison County, Mississippi",28089,37,103465,35.76088532
+Congestive heart failure,I50.0,"Marion County, Mississippi",28091,10,25563,39.11903924
+Congestive heart failure,I50.0,"Marshall County, Mississippi",28093,17,35916,47.33266511
+Congestive heart failure,I50.0,"Monroe County, Mississippi",28095,23,35827,64.19739303
+Congestive heart failure,I50.0,"Neshoba County, Mississippi",28099,22,29463,74.66992499
+Congestive heart failure,I50.0,"Newton County, Mississippi",28101,15,21747,68.97503104
+Congestive heart failure,I50.0,"Noxubee County, Mississippi",28103,11,11043,99.61061306
+Congestive heart failure,I50.0,"Panola County, Mississippi",28107,20,34167,58.53601428
+Congestive heart failure,I50.0,"Pearl River County, Mississippi",28109,25,55191,45.29724049
+Congestive heart failure,I50.0,"Pike County, Mississippi",28113,13,39956,32.53578937
+Congestive heart failure,I50.0,"Prentiss County, Mississippi",28117,14,25459,54.99037668
+Congestive heart failure,I50.0,"Rankin County, Mississippi",28121,64,149039,42.94178034
+Congestive heart failure,I50.0,"Scott County, Mississippi",28123,17,28265,60.14505572
+Congestive heart failure,I50.0,"Simpson County, Mississippi",28127,17,27222,62.44948938
+Congestive heart failure,I50.0,"Smith County, Mississippi",28129,13,16059,80.95149138
+Congestive heart failure,I50.0,"Tate County, Mississippi",28137,15,28296,53.01102629
+Congestive heart failure,I50.0,"Tippah County, Mississippi",28139,16,22131,72.29677827
+Congestive heart failure,I50.0,"Tishomingo County, Mississippi",28141,22,19552,112.5204583
+Congestive heart failure,I50.0,"Union County, Mississippi",28145,21,28429,73.86823314
+Congestive heart failure,I50.0,"Warren County, Mississippi",28149,12,47485,25.27113825
+Congestive heart failure,I50.0,"Washington County, Mississippi",28151,24,48130,49.8649491
+"Heart failure, unspecified",I50.9,"Franklin County, Mississippi",28037,20,7743,258.2978174
+"Heart disease, unspecified",I51.9,"Harrison County, Mississippi",28047,10,201410,4.964996773
+"Heart disease, unspecified",I51.9,"Jones County, Mississippi",28067,36,68215,52.7743165
+"Heart disease, unspecified",I51.9,"Lauderdale County, Mississippi",28075,18,78524,22.92292802
+"Heart disease, unspecified",I51.9,"Lee County, Mississippi",28081,11,85300,12.89566237
+"Heart disease, unspecified",I51.9,"Lincoln County, Mississippi",28085,20,34649,57.72172357
+"Heart disease, unspecified",I51.9,"Marion County, Mississippi",28091,11,25563,43.03094316
+"Intracerebral haemorrhage, unspecified",I61.9,"DeSoto County, Mississippi",28033,10,173323,5.769574725
+"Intracerebral haemorrhage, unspecified",I61.9,"Harrison County, Mississippi",28047,10,201410,4.964996773
+"Intracerebral haemorrhage, unspecified",I61.9,"Hinds County, Mississippi",28049,14,242891,5.763902327
+"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,"Madison County, Mississippi",28089,10,103465,9.665104141
+"Stroke, not specified as haemorrhage or infarction",I64,"Adams County, Mississippi",28001,12,31254,38.39508543
+"Stroke, not specified as haemorrhage or infarction",I64,"Alcorn County, Mississippi",28003,14,37388,37.44516957
+"Stroke, not specified as haemorrhage or infarction",I64,"Attala County, Mississippi",28007,12,19043,63.01528121
+"Stroke, not specified as haemorrhage or infarction",I64,"Bolivar County, Mississippi",28011,10,33322,30.01020347
+"Stroke, not specified as haemorrhage or infarction",I64,"Calhoun County, Mississippi",28013,12,14717,81.538357
+"Stroke, not specified as haemorrhage or infarction",I64,"Clarke County, Mississippi",28023,10,16006,62.47657129
+"Stroke, not specified as haemorrhage or infarction",I64,"Copiah County, Mississippi",28029,11,28773,38.23028534
+"Stroke, not specified as haemorrhage or infarction",I64,"DeSoto County, Mississippi",28033,40,173323,23.0782989
+"Stroke, not specified as haemorrhage or infarction",I64,"Forrest County, Mississippi",28035,22,75944,28.96871379
+"Stroke, not specified as haemorrhage or infarction",I64,"Hancock County, Mississippi",28045,19,46420,40.93063335
+"Stroke, not specified as haemorrhage or infarction",I64,"Harrison County, Mississippi",28047,65,201410,32.27247902
+"Stroke, not specified as haemorrhage or infarction",I64,"Hinds County, Mississippi",28049,63,242891,25.93756047
+"Stroke, not specified as haemorrhage or infarction",I64,"Itawamba County, Mississippi",28057,10,23609,42.35672837
+"Stroke, not specified as haemorrhage or infarction",I64,"Jackson County, Mississippi",28059,50,141425,35.35442814
+"Stroke, not specified as haemorrhage or infarction",I64,"Jones County, Mississippi",28067,22,68215,32.25097119
+"Stroke, not specified as haemorrhage or infarction",I64,"Lafayette County, Mississippi",28071,15,53154,28.21988938
+"Stroke, not specified as haemorrhage or infarction",I64,"Lauderdale County, Mississippi",28075,36,78524,45.84585604
+"Stroke, not specified as haemorrhage or infarction",I64,"Lee County, Mississippi",28081,46,85300,53.92731536
+"Stroke, not specified as haemorrhage or infarction",I64,"Leflore County, Mississippi",28083,21,30999,67.74412078
+"Stroke, not specified as haemorrhage or infarction",I64,"Lowndes County, Mississippi",28087,39,59710,65.31569251
+"Stroke, not specified as haemorrhage or infarction",I64,"Madison County, Mississippi",28089,37,103465,35.76088532
+"Stroke, not specified as haemorrhage or infarction",I64,"Marion County, Mississippi",28091,11,25563,43.03094316
+"Stroke, not specified as haemorrhage or infarction",I64,"Marshall County, Mississippi",28093,24,35916,66.82258603
+"Stroke, not specified as haemorrhage or infarction",I64,"Neshoba County, Mississippi",28099,12,29463,40.72904999
+"Stroke, not specified as haemorrhage or infarction",I64,"Pearl River County, Mississippi",28109,20,55191,36.23779239
+"Stroke, not specified as haemorrhage or infarction",I64,"Pike County, Mississippi",28113,12,39956,30.03303634
+"Stroke, not specified as haemorrhage or infarction",I64,"Pontotoc County, Mississippi",28115,14,30908,45.29571632
+"Stroke, not specified as haemorrhage or infarction",I64,"Prentiss County, Mississippi",28117,14,25459,54.99037668
+"Stroke, not specified as haemorrhage or infarction",I64,"Rankin County, Mississippi",28121,36,149039,24.15475144
+"Stroke, not specified as haemorrhage or infarction",I64,"Tippah County, Mississippi",28139,11,22131,49.70403506
+"Stroke, not specified as haemorrhage or infarction",I64,"Tishomingo County, Mississippi",28141,11,19552,56.26022913
+"Stroke, not specified as haemorrhage or infarction",I64,"Union County, Mississippi",28145,17,28429,59.7980935
+"Stroke, not specified as haemorrhage or infarction",I64,"Warren County, Mississippi",28149,28,47485,58.96598926
+"Stroke, not specified as haemorrhage or infarction",I64,"Washington County, Mississippi",28151,17,48130,35.32100561
+"Stroke, not specified as haemorrhage or infarction",I64,"Yazoo County, Mississippi",28163,13,27387,47.46777668
+"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,"Grenada County, Mississippi",28043,11,21578,50.97784781
+"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,"Oktibbeha County, Mississippi",28105,11,49800,22.08835341
+"Pneumonia, unspecified",J18.9,"Adams County, Mississippi",28001,19,31254,60.7922186
+"Pneumonia, unspecified",J18.9,"Alcorn County, Mississippi",28003,19,37388,50.81844442
+"Pneumonia, unspecified",J18.9,"Attala County, Mississippi",28007,13,19043,68.26655464
+"Pneumonia, unspecified",J18.9,"DeSoto County, Mississippi",28033,33,173323,19.03959659
+"Pneumonia, unspecified",J18.9,"Forrest County, Mississippi",28035,12,75944,15.80111661
+"Pneumonia, unspecified",J18.9,"Hancock County, Mississippi",28045,13,46420,28.00517019
+"Pneumonia, unspecified",J18.9,"Harrison County, Mississippi",28047,47,201410,23.33548483
+"Pneumonia, unspecified",J18.9,"Hinds County, Mississippi",28049,37,242891,15.23317043
+"Pneumonia, unspecified",J18.9,"Jackson County, Mississippi",28059,30,141425,21.21265689
+"Pneumonia, unspecified",J18.9,"Jones County, Mississippi",28067,38,68215,55.70622297
+"Pneumonia, unspecified",J18.9,"Lauderdale County, Mississippi",28075,36,78524,45.84585604
+"Pneumonia, unspecified",J18.9,"Lee County, Mississippi",28081,16,85300,18.75732708
+"Pneumonia, unspecified",J18.9,"Lincoln County, Mississippi",28085,12,34649,34.63303414
+"Pneumonia, unspecified",J18.9,"Madison County, Mississippi",28089,21,103465,20.2967187
+"Pneumonia, unspecified",J18.9,"Marion County, Mississippi",28091,11,25563,43.03094316
+"Pneumonia, unspecified",J18.9,"Pike County, Mississippi",28113,12,39956,30.03303634
+"Pneumonia, unspecified",J18.9,"Rankin County, Mississippi",28121,17,149039,11.4064104
+"Pneumonia, unspecified",J18.9,"Simpson County, Mississippi",28127,12,27222,44.08199251
+"Pneumonia, unspecified",J18.9,"Union County, Mississippi",28145,10,28429,35.17534912
+"Pneumonia, unspecified",J18.9,"Warren County, Mississippi",28149,14,47485,29.48299463
+Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,"DeSoto County, Mississippi",28033,17,173323,9.808277032
+Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,"Hinds County, Mississippi",28049,11,242891,4.528780399
+Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,"Jackson County, Mississippi",28059,14,141425,9.89923988
+Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,"Rankin County, Mississippi",28121,10,149039,6.709653178
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Adams County, Mississippi",28001,10,31254,31.99590452
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Alcorn County, Mississippi",28003,28,37388,74.89033915
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Amite County, Mississippi",28005,13,12574,103.3879434
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Attala County, Mississippi",28007,21,19043,110.2767421
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Bolivar County, Mississippi",28011,14,33322,42.01428486
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Coahoma County, Mississippi",28027,22,24620,89.35824533
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Covington County, Mississippi",28031,16,19543,81.87074656
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"DeSoto County, Mississippi",28033,80,173323,46.1565978
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Forrest County, Mississippi",28035,34,75944,44.7698304
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Grenada County, Mississippi",28043,15,21578,69.51524701
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Hancock County, Mississippi",28045,36,46420,77.55277897
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Harrison County, Mississippi",28047,95,201410,47.16746934
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Hinds County, Mississippi",28049,72,242891,29.64292625
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Itawamba County, Mississippi",28057,21,23609,88.94912957
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Jackson County, Mississippi",28059,60,141425,42.42531377
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Jones County, Mississippi",28067,49,68215,71.83170857
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Lafayette County, Mississippi",28071,18,53154,33.86386725
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Lamar County, Mississippi",28073,27,60618,44.54122538
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Lauderdale County, Mississippi",28075,32,78524,40.75187204
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Leake County, Mississippi",28079,10,22763,43.93094056
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Lee County, Mississippi",28081,43,85300,50.41031653
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Leflore County, Mississippi",28083,13,30999,41.93683667
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Lincoln County, Mississippi",28085,17,34649,49.06346504
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Lowndes County, Mississippi",28087,44,59710,73.68949925
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Madison County, Mississippi",28089,49,103465,47.35901029
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Marion County, Mississippi",28091,21,25563,82.1499824
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Marshall County, Mississippi",28093,16,35916,44.54839069
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Monroe County, Mississippi",28095,28,35827,78.15334803
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Montgomery County, Mississippi",28097,12,10152,118.2033097
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Neshoba County, Mississippi",28099,22,29463,74.66992499
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Oktibbeha County, Mississippi",28105,11,49800,22.08835341
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Panola County, Mississippi",28107,23,34167,67.31641643
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Pearl River County, Mississippi",28109,44,55191,79.72314327
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Pike County, Mississippi",28113,15,39956,37.54129542
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Pontotoc County, Mississippi",28115,29,30908,93.82684095
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Prentiss County, Mississippi",28117,18,25459,70.70191288
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Rankin County, Mississippi",28121,50,149039,33.54826589
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Scott County, Mississippi",28123,10,28265,35.37944454
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Simpson County, Mississippi",28127,10,27222,36.73499376
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Tate County, Mississippi",28137,15,28296,53.01102629
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Tippah County, Mississippi",28139,16,22131,72.29677827
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Tishomingo County, Mississippi",28141,21,19552,107.405892
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Union County, Mississippi",28145,21,28429,73.86823314
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Warren County, Mississippi",28149,34,47485,71.60155839
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Washington County, Mississippi",28151,27,48130,56.09806773
+Pneumonitis due to food and vomit,J69.0,"Harrison County, Mississippi",28047,10,201410,4.964996773
+Pneumonitis due to food and vomit,J69.0,"Hinds County, Mississippi",28049,17,242891,6.999024254
+Pneumonitis due to food and vomit,J69.0,"Rankin County, Mississippi",28121,11,149039,7.380618496
+"Respiratory failure, unspecified",J96.9,"Lauderdale County, Mississippi",28075,22,78524,28.01691203
+"Respiratory failure, unspecified",J96.9,"Simpson County, Mississippi",28127,29,27222,106.5314819
+Alcoholic cirrhosis of liver,K70.3,"Hinds County, Mississippi",28049,11,242891,4.528780399
+"Hepatic failure, unspecified",K72.9,"Harrison County, Mississippi",28047,11,201410,5.46149645
+Other and unspecified cirrhosis of liver,K74.6,"DeSoto County, Mississippi",28033,11,173323,6.346532197
+Other and unspecified cirrhosis of liver,K74.6,"Harrison County, Mississippi",28047,32,201410,15.88798967
+Other and unspecified cirrhosis of liver,K74.6,"Hinds County, Mississippi",28049,17,242891,6.999024254
+Other and unspecified cirrhosis of liver,K74.6,"Jackson County, Mississippi",28059,17,141425,12.02050557
+Other and unspecified cirrhosis of liver,K74.6,"Lauderdale County, Mississippi",28075,12,78524,15.28195201
+Other and unspecified cirrhosis of liver,K74.6,"Lee County, Mississippi",28081,12,85300,14.06799531
+Other and unspecified cirrhosis of liver,K74.6,"Rankin County, Mississippi",28121,11,149039,7.380618496
+"Liver disease, unspecified",K76.9,"Harrison County, Mississippi",28047,17,201410,8.440494514
+"Gastrointestinal haemorrhage, unspecified",K92.2,"Harrison County, Mississippi",28047,20,201410,9.929993546
+"Gastrointestinal haemorrhage, unspecified",K92.2,"Hinds County, Mississippi",28049,11,242891,4.528780399
+"Gastrointestinal haemorrhage, unspecified",K92.2,"Jackson County, Mississippi",28059,11,141425,7.777974191
+"Acute renal failure, unspecified",N17.9,"Jackson County, Mississippi",28059,12,141425,8.485062754
+"Acute renal failure, unspecified",N17.9,"Warren County, Mississippi",28149,13,47485,27.37706644
+"Chronic kidney disease, stage 5",N18.5,"Harrison County, Mississippi",28047,22,201410,10.9229929
+"Chronic kidney disease, stage 5",N18.5,"Hinds County, Mississippi",28049,16,242891,6.587316945
+"Chronic kidney disease, stage 5",N18.5,"Lee County, Mississippi",28081,12,85300,14.06799531
+"Chronic kidney disease, stage 5",N18.5,"Washington County, Mississippi",28151,12,48130,24.93247455
+Unspecified renal failure,N19,"DeSoto County, Mississippi",28033,25,173323,14.42393681
+Unspecified renal failure,N19,"Harrison County, Mississippi",28047,10,201410,4.964996773
+Unspecified renal failure,N19,"Hinds County, Mississippi",28049,12,242891,4.940487708
+Unspecified renal failure,N19,"Lauderdale County, Mississippi",28075,12,78524,15.28195201
+"Urinary tract infection, site not specified",N39.0,"Harrison County, Mississippi",28047,13,201410,6.454495805
+"Urinary tract infection, site not specified",N39.0,"Jackson County, Mississippi",28059,11,141425,7.777974191
+"Urinary tract infection, site not specified",N39.0,"Rankin County, Mississippi",28121,11,149039,7.380618496
+Respiratory arrest,R09.2,"Alcorn County, Mississippi",28003,11,37388,29.42120466
+Respiratory arrest,R09.2,"Simpson County, Mississippi",28127,15,27222,55.10249063
+Respiratory arrest,R09.2,"Tippah County, Mississippi",28139,10,22131,45.18548642
+Other lack of expected normal physiological development,R62.8,"Lauderdale County, Mississippi",28075,32,78524,40.75187204
+Other ill-defined and unspecified causes of mortality,R99,"Harrison County, Mississippi",28047,16,201410,7.943994836
+"Person injured in unspecified motor-vehicle accident, traffic",V89.2,"DeSoto County, Mississippi",28033,10,173323,5.769574725
+"Person injured in unspecified motor-vehicle accident, traffic",V89.2,"George County, Mississippi",28039,10,23373,42.78440936
+"Person injured in unspecified motor-vehicle accident, traffic",V89.2,"Lafayette County, Mississippi",28071,10,53154,18.81325959
+Other fall on same level,W18,"Harrison County, Mississippi",28047,10,201410,4.964996773
+Unspecified fall,W19,"DeSoto County, Mississippi",28033,11,173323,6.346532197
+Unspecified fall,W19,"Lee County, Mississippi",28081,16,85300,18.75732708
+"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,"DeSoto County, Mississippi",28033,23,173323,13.27002187
+"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,"Jackson County, Mississippi",28059,20,141425,14.14177126
+"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,"Pearl River County, Mississippi",28109,12,55191,21.74267544
+"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,"Rankin County, Mississippi",28121,10,149039,6.709653178
+"Intentional self-harm by hanging, strangulation and suffocation",X70,"Harrison County, Mississippi",28047,10,201410,4.964996773
+Intentional self-harm by handgun discharge,X72,"Harrison County, Mississippi",28047,19,201410,9.433493868
+Intentional self-harm by other and unspecified firearm discharge,X74,"Jackson County, Mississippi",28059,18,141425,12.72759413
+Assault by handgun discharge,X93,"Hinds County, Mississippi",28049,29,242891,11.93951196
+Assault by other and unspecified firearm discharge,X95,"Coahoma County, Mississippi",28027,12,24620,48.74086109
+Assault by other and unspecified firearm discharge,X95,"Hinds County, Mississippi",28049,10,242891,4.11707309
+Assault by other and unspecified firearm discharge,X95,"Washington County, Mississippi",28151,14,48130,29.08788697
+"Drug or medicament, unspecified",Y57.9,"Hancock County, Mississippi",28045,10,46420,21.5424386

@@ -1,0 +1,106 @@
+Cause of death,Cause of death Code,County,County Code,Deaths,Population,Crude Rate
+"Septicaemia, unspecified",A41.9,"Minnehaha County, South Dakota",46099,20,185197,10.799311
+"Septicaemia, unspecified",A41.9,"Pennington County, South Dakota",46103,20,108702,18.3989255
+"Oesophagus, unspecified - Malignant neoplasms",C15.9,"Minnehaha County, South Dakota",46099,10,185197,5.399655502
+"Colon, unspecified - Malignant neoplasms",C18.9,"Minnehaha County, South Dakota",46099,24,185197,12.9591732
+"Colon, unspecified - Malignant neoplasms",C18.9,"Pennington County, South Dakota",46103,12,108702,11.0393553
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Lincoln County, South Dakota",46083,10,52849,18.9218339
+"Pancreas, unspecified - Malignant neoplasms",C25.9,"Minnehaha County, South Dakota",46099,26,185197,14.03910431
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Beadle County, South Dakota",46005,10,18372,54.43065535
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Brown County, South Dakota",46013,24,38785,61.87959263
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Butte County, South Dakota",46019,12,10283,116.6974618
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Codington County, South Dakota",46029,15,27939,53.68839257
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Davison County, South Dakota",46035,10,19858,50.35753852
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Hughes County, South Dakota",46065,14,17555,79.74935916
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Lawrence County, South Dakota",46081,15,24827,60.4180932
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Meade County, South Dakota",46093,14,26986,51.87875195
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Minnehaha County, South Dakota",46099,76,185197,41.03738182
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Pennington County, South Dakota",46103,51,108702,46.91726003
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Union County, South Dakota",46127,10,14909,67.07357972
+"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,"Yankton County, South Dakota",46135,19,22702,83.69306669
+"Breast, unspecified - Malignant neoplasms",C50.9,"Minnehaha County, South Dakota",46099,20,185197,10.799311
+"Breast, unspecified - Malignant neoplasms",C50.9,"Pennington County, South Dakota",46103,12,108702,11.0393553
+Malignant neoplasm of prostate,C61,"Minnehaha County, South Dakota",46099,17,185197,9.179414353
+Malignant neoplasm of prostate,C61,"Pennington County, South Dakota",46103,10,108702,9.199462751
+"Brain, unspecified - Malignant neoplasms",C71.9,"Minnehaha County, South Dakota",46099,11,185197,5.939621052
+"Brain, unspecified - Malignant neoplasms",C71.9,"Pennington County, South Dakota",46103,10,108702,9.199462751
+Malignant neoplasm without specification of site,C80,"Minnehaha County, South Dakota",46099,19,185197,10.25934545
+Malignant neoplasm without specification of site,C80,"Pennington County, South Dakota",46103,13,108702,11.95930158
+"Unspecified diabetes mellitus, without complications",E14.9,"Shannon County, South Dakota",46113,10,14373,69.57489738
+"Vascular dementia, unspecified",F01.9,"Minnehaha County, South Dakota",46099,16,185197,8.639448803
+Unspecified dementia,F03,"Minnehaha County, South Dakota",46099,25,185197,13.49913875
+Unspecified dementia,F03,"Pennington County, South Dakota",46103,20,108702,18.3989255
+"Mental and behavioural disorders due to use of alcohol, harmful use",F10.1,"Minnehaha County, South Dakota",46099,12,185197,6.479586602
+Parkinson's disease,G20,"Minnehaha County, South Dakota",46099,19,185197,10.25934545
+"Alzheimer's disease, unspecified",G30.9,"Beadle County, South Dakota",46005,14,18372,76.20291748
+"Alzheimer's disease, unspecified",G30.9,"Brookings County, South Dakota",46011,10,33897,29.50113579
+"Alzheimer's disease, unspecified",G30.9,"Brown County, South Dakota",46013,18,38785,46.40969447
+"Alzheimer's disease, unspecified",G30.9,"Charles Mix County, South Dakota",46023,12,9383,127.8908665
+"Alzheimer's disease, unspecified",G30.9,"Davison County, South Dakota",46035,13,19858,65.46480008
+"Alzheimer's disease, unspecified",G30.9,"Hutchinson County, South Dakota",46067,10,7301,136.9675387
+"Alzheimer's disease, unspecified",G30.9,"Lawrence County, South Dakota",46081,13,24827,52.36234744
+"Alzheimer's disease, unspecified",G30.9,"Lincoln County, South Dakota",46083,14,52849,26.49056747
+"Alzheimer's disease, unspecified",G30.9,"McCook County, South Dakota",46087,10,5599,178.603322
+"Alzheimer's disease, unspecified",G30.9,"Minnehaha County, South Dakota",46099,82,185197,44.27717512
+"Alzheimer's disease, unspecified",G30.9,"Pennington County, South Dakota",46103,33,108702,30.35822708
+"Alzheimer's disease, unspecified",G30.9,"Turner County, South Dakota",46125,15,8209,182.726276
+"Alzheimer's disease, unspecified",G30.9,"Walworth County, South Dakota",46129,10,5443,183.722212
+"Alzheimer's disease, unspecified",G30.9,"Yankton County, South Dakota",46135,11,22702,48.45388072
+Essential (primary) hypertension,I10,"Pennington County, South Dakota",46103,10,108702,9.199462751
+Hypertensive heart disease with (congestive) heart failure,I11.0,"Minnehaha County, South Dakota",46099,12,185197,6.479586602
+Hypertensive heart disease without (congestive) heart failure,I11.9,"Minnehaha County, South Dakota",46099,36,185197,19.43875981
+"Acute myocardial infarction, unspecified",I21.9,"Beadle County, South Dakota",46005,13,18372,70.75985195
+"Acute myocardial infarction, unspecified",I21.9,"Brookings County, South Dakota",46011,12,33897,35.40136295
+"Acute myocardial infarction, unspecified",I21.9,"Brown County, South Dakota",46013,20,38785,51.56632719
+"Acute myocardial infarction, unspecified",I21.9,"Butte County, South Dakota",46019,18,10283,175.0461927
+"Acute myocardial infarction, unspecified",I21.9,"Charles Mix County, South Dakota",46023,12,9383,127.8908665
+"Acute myocardial infarction, unspecified",I21.9,"Clay County, South Dakota",46027,32,13964,229.1606989
+"Acute myocardial infarction, unspecified",I21.9,"Davison County, South Dakota",46035,10,19858,50.35753852
+"Acute myocardial infarction, unspecified",I21.9,"Day County, South Dakota",46037,11,5539,198.5918036
+"Acute myocardial infarction, unspecified",I21.9,"Hutchinson County, South Dakota",46067,11,7301,150.6642926
+"Acute myocardial infarction, unspecified",I21.9,"Kingsbury County, South Dakota",46077,14,4990,280.5611222
+"Acute myocardial infarction, unspecified",I21.9,"Lawrence County, South Dakota",46081,12,24827,48.33447456
+"Acute myocardial infarction, unspecified",I21.9,"Lincoln County, South Dakota",46083,18,52849,34.05930103
+"Acute myocardial infarction, unspecified",I21.9,"McCook County, South Dakota",46087,10,5599,178.603322
+"Acute myocardial infarction, unspecified",I21.9,"Meade County, South Dakota",46093,18,26986,66.7012525
+"Acute myocardial infarction, unspecified",I21.9,"Minnehaha County, South Dakota",46099,84,185197,45.35710622
+"Acute myocardial infarction, unspecified",I21.9,"Pennington County, South Dakota",46103,94,108702,86.47494986
+"Acute myocardial infarction, unspecified",I21.9,"Roberts County, South Dakota",46109,13,10311,126.0789448
+"Acute myocardial infarction, unspecified",I21.9,"Union County, South Dakota",46127,10,14909,67.07357972
+"Acute myocardial infarction, unspecified",I21.9,"Yankton County, South Dakota",46135,29,22702,127.7420492
+"Atherosclerotic cardiovascular disease, so described",I25.0,"Minnehaha County, South Dakota",46099,11,185197,5.939621052
+Atherosclerotic heart disease,I25.1,"Beadle County, South Dakota",46005,15,18372,81.64598302
+Atherosclerotic heart disease,I25.1,"Brookings County, South Dakota",46011,23,33897,67.85261233
+Atherosclerotic heart disease,I25.1,"Brown County, South Dakota",46013,29,38785,74.77117442
+Atherosclerotic heart disease,I25.1,"Charles Mix County, South Dakota",46023,11,9383,117.2332943
+Atherosclerotic heart disease,I25.1,"Codington County, South Dakota",46029,24,27939,85.90142811
+Atherosclerotic heart disease,I25.1,"Davison County, South Dakota",46035,10,19858,50.35753852
+Atherosclerotic heart disease,I25.1,"Hughes County, South Dakota",46065,13,17555,74.05297636
+Atherosclerotic heart disease,I25.1,"Lincoln County, South Dakota",46083,16,52849,30.27493425
+Atherosclerotic heart disease,I25.1,"Minnehaha County, South Dakota",46099,77,185197,41.57734737
+Atherosclerotic heart disease,I25.1,"Pennington County, South Dakota",46103,52,108702,47.83720631
+Atherosclerotic heart disease,I25.1,"Yankton County, South Dakota",46135,18,22702,79.28816844
+Aortic (valve) stenosis,I35.0,"Minnehaha County, South Dakota",46099,10,185197,5.399655502
+"Cardiovascular disease, unspecified",I51.6,"Davison County, South Dakota",46035,15,19858,75.53630779
+"Stroke, not specified as haemorrhage or infarction",I64,"Brown County, South Dakota",46013,11,38785,28.36147995
+"Stroke, not specified as haemorrhage or infarction",I64,"Minnehaha County, South Dakota",46099,45,185197,24.29844976
+"Stroke, not specified as haemorrhage or infarction",I64,"Pennington County, South Dakota",46103,19,108702,17.47897923
+"Pneumonia, unspecified",J18.9,"Brown County, South Dakota",46013,10,38785,25.78316359
+"Pneumonia, unspecified",J18.9,"Minnehaha County, South Dakota",46099,17,185197,9.179414353
+"Pneumonia, unspecified",J18.9,"Yankton County, South Dakota",46135,10,22702,44.04898247
+Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,"Minnehaha County, South Dakota",46099,17,185197,9.179414353
+Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,"Pennington County, South Dakota",46103,10,108702,9.199462751
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Brown County, South Dakota",46013,10,38785,25.78316359
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Meade County, South Dakota",46093,21,26986,77.81812792
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Minnehaha County, South Dakota",46099,65,185197,35.09776076
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Pennington County, South Dakota",46103,27,108702,24.83854943
+"Chronic obstructive pulmonary disease, unspecified",J44.9,"Yankton County, South Dakota",46135,17,22702,74.8832702
+Pneumonitis due to food and vomit,J69.0,"Minnehaha County, South Dakota",46099,13,185197,7.019552153
+Other interstitial pulmonary diseases with fibrosis,J84.1,"Minnehaha County, South Dakota",46099,10,185197,5.399655502
+Alcoholic cirrhosis of liver,K70.3,"Shannon County, South Dakota",46113,10,14373,69.57489738
+"Urinary tract infection, site not specified",N39.0,"Minnehaha County, South Dakota",46099,10,185197,5.399655502
+Unspecified fall,W19,"Minnehaha County, South Dakota",46099,13,185197,7.019552153
+"Intentional self-harm by hanging, strangulation and suffocation",X70,"Minnehaha County, South Dakota",46099,12,185197,6.479586602
+"Intentional self-harm by hanging, strangulation and suffocation",X70,"Shannon County, South Dakota",46113,10,14373,69.57489738
+Intentional self-harm by handgun discharge,X72,"Minnehaha County, South Dakota",46099,11,185197,5.939621052
+Intentional self-harm by handgun discharge,X72,"Pennington County, South Dakota",46103,12,108702,11.0393553
