@@ -1,5 +1,13 @@
 # Final_Project_DK_AG
-Final Project
+Hey Annie, here's how to do some things in Markdown (check them out in edit mode):
+
+[Making a hyperlink](https://i.pinimg.com/736x/88/50/2b/88502b58b2ca3509be47473044fde8cc--wink-wink-adorable-animals.jpg)
+
+
+images
+
+<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.pdf">
+
 # The question
 We want to examine the difference in the impact of being far from a hospital on health outcomes in states where health outcomes are generally poor (LA, AL, MS) compared with states where they are generally good (MT, SD, ND).
 
