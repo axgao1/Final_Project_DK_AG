@@ -17,7 +17,7 @@ To construct our analysis, we downloaded census tract centroid points for each s
 
 Below is a list of the datasets we used.
 
-2016 Census tract coordinates (https://www.census.gov/geo/maps-data/data/tiger-line.html)
+[2016 Census tract coordinates] (https://www.census.gov/geo/maps-data/data/tiger-line.html)
 
 education/unemployent/income 2016 - https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t
 health outcomes/sex/race/age 2016 - https://wonder.cdc.gov/controller/datarequest/D76
