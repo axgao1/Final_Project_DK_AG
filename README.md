@@ -33,7 +33,9 @@ We first obtained census tract centroid coordinates for each state using the dow
 
 Below is a map of hospital locations with tracts colored by the distance of their centroids to the nearest hospital for the northern states, Montana, North Dakota, South Dakota, and the southern states, Louisiana, Alabama, and Mississippi.
 
-<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/Hospital%20Locations%20with%20Distances.png?raw=true" width="500" height="500">
+<p align="center">
+  <img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/Hospital%20Locations%20with%20Distances.png?raw=true"     width="600" height="600">
+</p>
 
 We then aggregated this data to the county level and merged it with all of our demographic variables as well as our health outcomes data. Since we also decided to explore how distance impacts change with different causes of death, we brought our demographics and distance measure together with three different measures of mortality: all cause mortality, mortality from various types of heart failure, and mortality from Alzheimer's. Using these data sets, we performed three regreessions detailed below to ascertain the effect of distance to a hospital on our three measures of health outcomes secular to the demographics as well as state fixed effects. 
 
