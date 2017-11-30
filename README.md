@@ -60,6 +60,8 @@ This model attempted to demonstrate how heart failure and heart-related causes o
 
 This model attempted to demonstrate how Alzheimer's-related causes of death are impacted by distance to nearest hospital. We regress log(Alzheimers_mort) on ged, highschool, somecollege, associates, bachelors, graduateplus, np.log(income), percentmale, nonhispanicwhite, percent65plus, unemployment, mindist, and state, as well as the minimum distance averaged at the county level. We had hoped to demonstrate that being a kilometer away from a hospital has a smaller negative impact on mortality (in comparison to heart-related mortality) after having controlled for other variables that would also affect health outcomes.
 
+Given that 
+
 # The Results
 
 Overall, we hoped to demonstrate that being farther from the hospital has a negative impact on health outcomes and that this impact is larger for heart-related deaths, particularly in the Southern states.
@@ -96,7 +98,7 @@ Additionally, we should have controlled for other demographic variables that may
 
 wider variations in distance to hospital in northern states (should have looked for states that have comparable distances to hospitals as northern states - not a lot of within group variation)
 
-Another concern is the lack of within group variation in hospital distance. 
+Another concern is the lack of within group variation in hospital distance. While the Northern states have a lot of tracts with a large distance to the nearest hospital, the Southern states are relatively well covered by hospitals. Had we gone ahead with a regre
 
 small clinics and independent practices (other health care providers) are not covered in our analysis (even if far from a hospital, if have clinic close by, it makes difference in health outcomes but we dont control for that)
 
