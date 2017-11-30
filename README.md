@@ -91,7 +91,7 @@ The first limitation to our study is the fact that, though we had complete data 
 
 [WILL ADD 3 DATA MAPS]
 
-<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true" width="500" height="500">
+<center><img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true" width="500" height="500" align="middle"></center>
 
 ## Hospital heterogeneity
 We also did not control for differences between hospitals and treated hospitals as homogeneous entities. In reality, different hospitals provide vastly different quality of service and many lack particular capabilities all together. An extension of this study would attempt to more richly model what hospitals can and cannot do as well as the quality of service they provide. 
