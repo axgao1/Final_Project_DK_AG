@@ -2,7 +2,7 @@
 
 # The Question
 
-This project explores the impact of distance from a hospital on health outcomes and contrasts the impact in northern states against that of southern states in the U.S. The northern states we used are Montana, North Dakota, and South Dakota. The southern states we used are Alabama, Louisiana, and Mississippi. Northern states are generally considered to have better health outcomes than southern states. Health outcomes are defined as deaths per 100,000 people. 
+This project explores the impact of distance from a hospital on health outcomes and contrasts the impact in Northern states against that of southern states in the U.S. The northern states we used are Montana, North Dakota, and South Dakota. The southern states we used are Alabama, Louisiana, and Mississippi. Northern states are generally considered to have better health outcomes than southern states. Health outcomes are defined as deaths per 100,000 people. 
 
 The initial hypothesis was that being farther from a hospital has a negative impact on health outcomes, and this negative impact would be larger in southern states than in northern states. After controlling for demographic variables such as age, race, income, sex, education, and unemployment rate, we hypothesized that distance is negatively correlated with health outcomes. Further, we expected distance to have a stronger negative correlation with particular health outcomes that are more sensitive to time/distance to hospitals, such as heart-related diseases relative to health outcomes that are not as sensitive to time/distance, such as Alzheimer's. However, after running our regressions, we do not find any significant correlations between health outcomes and distance. We offer several potential reasons in the later sections.
 
@@ -37,13 +37,6 @@ Below is a map of hospital locations with tracts colored by the distance of thei
 
 We then aggregated this data to the county level and merged it with all of our demographic variables as well as our health outcomes data. Since we also decided to explore how distance impacts change with different causes of death, we brought our demographics and distance measure together with three different measures of mortality: all cause mortality, mortality from various types of heart failure, and mortality from Alzheimer's. Using these data sets, we performed three regreessions detailed below to ascertain the effect of distance to a hospital on our three measures of health outcomes secular to the demographics as well as state fixed effects. 
 
-
-Below is a map indicating the availability of our data for all counties' all causes of death.
-
-<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true" width="500" height="500">
-
-
-
 # Regression Analysis
 
 ## Baseline Model - All Cause Mortality Model
@@ -52,56 +45,75 @@ Our baseline model uses all causes of mortality (allcausemort) as the dependent 
 
 Our other two regressions had the same independent variables and function form, but used log(heart condition mortality) and log(Alzheimer's mortality) as their dependent variables. We hypothesized finding that mortality from heart conditions would be more sensative to hospital distance than either all cause mortality or mortality from Alzheimer's. 
 
-## Heart-related Mortality Model
-
-This model attempted to demonstrate how heart failure and heart-related causes of death are impacted by distance to nearest hospital. We regress log(heartmort) on ged, highschool, somecollege, associates, bachelors, graduateplus, np.log(income), percentmale, nonhispanicwhite, percent65plus, unemployment, mindist, and state, as well as the minimum distance averaged at the county level. We had hoped to demonstrate that being farther away (a kilometer further) from a hospital has a larger negative impact on mortality after having controlled for other variables that would also affect health outcomes.
-
-## Alzheimer's-related Mortality Model
-
-This model attempted to demonstrate how Alzheimer's-related causes of death are impacted by distance to nearest hospital. We regress log(Alzheimers_mort) on ged, highschool, somecollege, associates, bachelors, graduateplus, np.log(income), percentmale, nonhispanicwhite, percent65plus, unemployment, mindist, and state, as well as the minimum distance averaged at the county level. We had hoped to demonstrate that being a kilometer away from a hospital has a smaller negative impact on mortality (in comparison to heart-related mortality) after having controlled for other variables that would also affect health outcomes.
-
-Given that 
+Given that the effect of distance in our baseline results (all causes of mortality), heart-related, and Alzheimer's-related mortality results were all not significant, we did not pursue models that interacted region fixed effects with distance. These models would have shown the effect of distance from hospitals in each of the two regions.
 
 # The Results
 
 Overall, we hoped to demonstrate that being farther from the hospital has a negative impact on health outcomes and that this impact is larger for heart-related deaths, particularly in the Southern states.
 
-Regressions and what they show
-Overall death
-Heart Death
-Alzehmiers death
+In our first regression, we examined the effect of being further from a hospital on all causes of mortality. Below are our regression results.
 
-nothing signficant
+In examining our results, we see that the mindist coefficient (-2.456e-05) is not only insignigificant, but the sign on the coefficient is not what we expected either. Being a kilometer further from the nearest hospital should not decrease mortality in a county. 
 
-all cause mortality - education was significant (except for associates degree) makes you die less
-being old makes you die more (obviously) - age
+## ALL CAUSE MORTALITY REGRESSION
 
-heart related death is closer to being significant 
-alzheimers related death is closer to beign significant (which we expect to not be sensitive to distance)
-this means we want to focus on specific health outcomes/reasons for death instead of all cause mortality
 
-We did not test for differences between min distance in northern and southern states because min distance has such small explanatory power - would not have been useful because we have such insignificant results for min distance
+| Dep. Variable: | np.log(allcausemort) | R-squared:	0.610 |
+---------------- | -------------------- | ----------------- |
+OLS              | Adj. R-squared:      | 0.592
+Content Cell     | Content Cell         |
 
-# Limitations of our Study and Possible Extensions [WILL ADD BOTH MISSING DATA MAPS]
 
-missing data on specific health outcomes (heart and alzheimers, in northern states especially)
 
-hospital specializations - different capabilities, not all hospitals provide same services
+This counter intuitive result is also borne out in the heart-related mortality regression. The coefficient on mindist in this regression is -0.0012, although this is still insigificant. This is especially surprising because we expected heart-related mortality to be extremely sensitive to distance from a hospital. When a person is having a heart attack, we would expect distance and time to a hospital to be critical for survival rate. In our results, we only explain 36.2% of the variation in heart-related mortality, so our model is missing key factors.
 
+## HEART REGRESSION
+
+[TABLE]
+
+
+In examining the Alzheimer's-related mortality regression, the coefficient on mindist (0.0016) is positive as expected, although this is still insignificant. We do expect that being a kilometer further from the nearest hospital is correlated with higher mortality due to Alzheimer's. Ironically, the measure we expect to be the least sensitive to distance from hospital seems to be the most sensitive with a correct correlation direction and the highest t-statistic of the three coefficients.
+
+## AL REGRESSION
+
+[AL TABLE]
+
+## Analysis of covariates
+In examining the state fixed effects, it appears that the differences between states are not as large as we expected. No state's mortality outcomes are significantly different from Alabama, except for Montana in the Alzheimer's-related mortality regression, where Montana has significantly lower Alzheimer's-related mortality than Alabama. Though insignificant, North Dakota and South Dakota generally tend to have higher mortality than Alabama. All of this contradicts our initial assumption that Northern states have better health outcomes than Southern states. However, we did not rigorously test the difference in health outcomes between Northern and Southern states, a potential limitation to our study commented on below.
+
+Reviewing the rest of our control variables, we see that age is the biggest predictor in causes of mortality, especially since we limited it to population above 65. Having more old people leads to more deaths. 
+
+# Limitations of our Study and Possible Extensions 
+
+## Missing data
+
+The first limitation to our study is the fact that, though we had complete data for all cause mortality, our data by cause of mortality is highly fragmentary. This can be easily seen in our maps below showing data availability. There is a lot of missing data in the Northern states especially. Without this data, our effective number of observations is extremely limited as counties with missing mortality rates are excluded from our regression results, making our results inaccurate. We tend to be missing more data in rural areas far from hospitals, which compounds the problem. An extension of this study would need to use more complete data for mortality by specific causes.
+
+[WILL ADD 3 DATA MAPS]
+
+<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true" width="500" height="500">
+
+## Hospital heterogeneity
 We also did not control for differences between hospitals and treated hospitals as homogeneous entities. In reality, different hospitals provide vastly different quality of service and many lack particular capabilities all together. An extension of this study would attempt to more richly model what hospitals can and cannot do as well as the quality of service they provide. 
 
-other demographics that we dont control for - population density
-  - people's occupation status (omitted variable bias) - concentrated in rural areas 
-   (miner independently affects health outcomes but also determines how far you live from hospitals)
+## Additional demographic controls
 
-Additionally, we should have controlled for other demographic variables that may be correlated both with distance from a hospital and health outcomes. For example, rural populations likely face different healthcare concerns relative to urban populations. However, we don't consider the population density of a county. Different occupations more common in rural or urban areas disntant from hospitals may have a strong impacts on mortality. Consider the lack of urban coal miners as an example.
+Additionally, we should have controlled for other demographic variables that may be correlated both with distance from a hospital and health outcomes. For example, rural populations likely face different healthcare concerns relative to urban populations. However, we don't consider the population density of a county. Different occupations more common in rural or urban areas may have a strong impact on mortality. Consider the lack of urban coal miners as an example. Ommissions like these create ommitted variable bias in our estimates of the effect of distance on mortality. In an extension, we would want to control for additional factors like these.
 
-wider variations in distance to hospital in northern states (should have looked for states that have comparable distances to hospitals as northern states - not a lot of within group variation)
+## Lack of within group variation in distance
 
-Another concern is the lack of within group variation in hospital distance. While the Northern states have a lot of tracts with a large distance to the nearest hospital, the Southern states are relatively well covered by hospitals. Had we gone ahead with a regre
+Another concern is the lack of within group variation in hospital distance. While the Northern states have a lot of tracts with a large distance to the nearest hospital, the Southern states are relatively well covered by hospitals. Had we gone ahead with a regression showing within region effects of distance to the nearest hospital, the estimate for the Southern states would have been based soley on observations where people are relatively close whereas the Nothern states sample would have included many counties far from a hospital, biasing a comparison between the two. We may have wanted to select different groups of states such that each group had a similar range of distances to the nearest hospital.
 
-small clinics and independent practices (other health care providers) are not covered in our analysis (even if far from a hospital, if have clinic close by, it makes difference in health outcomes but we dont control for that)
+## Other healthcare providers
 
-maybe Alzheimer's death does depend on distance to hospital (if far from hospital, might not get medication as quickly)
+hospitals are not the only providers in healthcare markets. Many of the counties we measure to be underserved by hospitals may have many small clinics or independent physician practices. Controlling for the prevelance of other healthcare providers would be critical in extending the analysis.
 
-we're measuring straight line distance in an Albers equal area projection of the states - but would have been more accurate if we measured distance by road/travel distance instead.
+## Alternative choice for mortality not sensitive to distance
+
+We measure mortality from Alzheimer's on the assumption that it would not be sensitive to distance so as to compare with a cause that is (heart failure). However, Alzheimer's could be correlated somewhat strongly with distance, and we could have made an alternative choice for a benchmark to compare with heart failure.
+
+## Distance measure
+
+we're measuring straight line distance in an Albers equal area projection of the states, but it would have been more accurate if we measured distance by road/travel distance instead. Ambulances do not travel as the crow flies.
+
+
