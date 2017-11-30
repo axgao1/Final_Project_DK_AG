@@ -31,7 +31,7 @@ The bulk of the analysis is performed in python, pandas and statsmodels.
 
 We first obtained census tract centroid coordinates for each state using the downloaded shape files. We then converted the centroid coordinates and hospital coordinates to the same projection and found the minimum distance from each centroid to all hospitals, giving us the distance to the closest hospital from each centroid. 
 
-Below is a map of our hospital locations limited to 1 northern state (Montana) and 1 southern state (Louisiana).
+Below is a map of our hospital locations shown by the northern states, Montana, North Dakota, South Dakota, and the southern states, Louisiana, Alamaba, and Mississippi.
 
 <img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/Hospital%20Locations%20with%20Distances.png?raw=true" width="500" height="500">
 
