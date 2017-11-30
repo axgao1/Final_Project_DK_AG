@@ -1,20 +1,24 @@
 # Final_Project_DK_AG
-Hey Annie, here's how to do some things in Markdown (check them out in edit mode):
+
+# The question
+This project explores the impact of distance from a hospital on health outcomes and contrasts them against northern and southern states in the U.S. The northern states we used are Montana, North Dakota, and South Dakota. The southern states we used are Alabama, Louisiana, and Mississippi. Northern states are generally considered to have better health outcomes than southern states. Health outcomes are defined as deaths per 100,000 people. 
+
+The initial hypothesis was that being farther from a hospital has a negative impact on health outcomes, and this negative impact would be larger in southern states than in northern states. By controlling for demographic variables such as age, race, income, sex, education, and unemployment rate, we hypothesized that distance is negatively correlated with health outcomes. Further, we expected distance to have a stronger negative correlation with health outcomes that are more sensitive to time/distance to hospitals, such as heart-related diseases, than health outcomes that are not sensitive to time/distance, such as Alzheimer's. However, after running our regressions, we do not find any significant correlations between health outcomes and distance. We offer several potential reasons in the later sections.
 
 [Making a hyperlink](https://i.pinimg.com/736x/88/50/2b/88502b58b2ca3509be47473044fde8cc--wink-wink-adorable-animals.jpg)
-
 
 images (go the image, right click to copy direct URL link you can resize using html options).
 
 <img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true">
 
-# The question
-We want to examine the difference in the impact of being far from a hospital on health outcomes in states where health outcomes are generally poor (LA, AL, MS) compared with states where they are generally good (MT, SD, ND).
-
-We're doing a regression and including some other variables
 # The data
 
-put in links to websites
+To construct our analysis, we downloaded census tract centroid points for each state, coordinates for hospitals in our 6 states, demographic data, health outcomes, and a 2016 county crosswalk to merge our data. 
+
+Below is a list of the datasets we used.
+
+2016 Census tract coordinates (https://www.census.gov/geo/maps-data/data/tiger-line.html)
+
 education/unemployent/income 2016 - https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t
 health outcomes/sex/race/age 2016 - https://wonder.cdc.gov/controller/datarequest/D76
 2016 county crosswalk - http://www.nber.org/cbsa-msa-fips-ssa-county-crosswalk/2016/
