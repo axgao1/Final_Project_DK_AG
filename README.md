@@ -21,7 +21,7 @@ Below is a list of the datasets we used.
 
 Our analysis occurs at the county level. The distance of a centroid to the closest hospital is averaged to the county level. All other data is collected at the county level. Education is expressed as percentage of total population within the specific education level. The unemployment rate is that for those over the age of 16. Sex and race are also expressed as percentages of total county population. We specified age to be percentage of total county population over the age of 65.
 
-# The Investigation
+# The Investigation [SHOULD CHANGE MISSING DATA TO WHITE FOR CONTRAST. MAKE LEGEND BIGGER]
 
 All analysis code for this project is included in a single jupyter notebook.
 
@@ -35,7 +35,9 @@ Below is a map of our hospital locations shown by the northern states, Montana, 
 
 <img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/Hospital%20Locations%20with%20Distances.png?raw=true" width="500" height="500">
 
-We then merged all of our demographic variables into one dataframe with health outcomes by county. Using this one combined dataframe, we were able to regress health outcomes on the demographics. 
+We then merged all of our demographic variables into one dataframe with health outcomes by county. Using this one combined dataframe, we were able to regress health outcomes on the demographics. Below is a map indicating the availability of our data for all counties' all causes of death.
+
+<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true" width="500" height="500">
 
 Since we also decided to explore how distance impacts change with different causes of death, we created dataframes to only include heart-related diseases cause of death for each county and Alzheimer's-related cause of death for each county as contrasts against each other. Both dataframes are joined with all demographics and minimum distance data.
 
@@ -53,11 +55,7 @@ This model attempted to demonstrate how heart failure and heart-related causes o
 
 This model attempted to demonstrate how Alzheimer's-related causes of death are impacted by distance to nearest hospital. We regress log(Alzheimers_mort) on ged, highschool, somecollege, associates, bachelors, graduateplus, np.log(income), percentmale, nonhispanicwhite, percent65plus, unemployment, mindist, and state, as well as the minimum distance averaged at the county level. We had hoped to demonstrate that being a kilometer away from a hospital has a smaller negative impact on mortality (in comparison to heart-related mortality) after having controlled for other variables that would also affect health outcomes.
 
-
-Missing data - health outcomes
-
-
-# The results
+# The Results
 
 Overall, we hoped to demonstrate that being farther from the hospital has a negative impact on health outcomes and that this impact is larger for heart-related deaths, particularly in the Southern states.
 
@@ -77,7 +75,7 @@ this means we want to focus on specific health outcomes/reasons for death instea
 
 We did not test for differences between min distance in northern and southern states because min distance has such small explanatory power - would not have been useful because we have such insignificant results for min distance
 
-# Limitations of our Study and Possible Extensions
+# Limitations of our Study and Possible Extensions [WILL ADD BOTH MISSING DATA MAPS]
 
 missing data on specific health outcomes (heart and alzheimers, in northern states especially)
 
