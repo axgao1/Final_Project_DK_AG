@@ -6,7 +6,7 @@ This project explores the impact of distance from a hospital on health outcomes 
 
 The initial hypothesis was that being farther from a hospital has a negative impact on health outcomes, and this negative impact would be larger in southern states than in northern states. By controlling for demographic variables such as age, race, income, sex, education, and unemployment rate, we hypothesized that distance is negatively correlated with health outcomes. Further, we expected distance to have a stronger negative correlation with health outcomes that are more sensitive to time/distance to hospitals, such as heart-related diseases, than health outcomes that are not sensitive to time/distance, such as Alzheimer's. However, after running our regressions, we do not find any significant correlations between health outcomes and distance. We offer several potential reasons in the later sections.
 
-# The Data
+# The Data [SHOULD WE MAKE CHECKOUT SCRIPT FOR ALL THE DATA?]
 
 To construct our analysis, we downloaded census tract centroid points for each state, coordinates for hospitals in our 6 states, demographic data, health outcomes, and a 2016 county crosswalk to merge our data. All of our data is from 2016.
 
