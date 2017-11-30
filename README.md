@@ -1,37 +1,56 @@
 # Final_Project_DK_AG
 
-# The question
+# The Question
+
 This project explores the impact of distance from a hospital on health outcomes and contrasts them against northern and southern states in the U.S. The northern states we used are Montana, North Dakota, and South Dakota. The southern states we used are Alabama, Louisiana, and Mississippi. Northern states are generally considered to have better health outcomes than southern states. Health outcomes are defined as deaths per 100,000 people. 
 
 The initial hypothesis was that being farther from a hospital has a negative impact on health outcomes, and this negative impact would be larger in southern states than in northern states. By controlling for demographic variables such as age, race, income, sex, education, and unemployment rate, we hypothesized that distance is negatively correlated with health outcomes. Further, we expected distance to have a stronger negative correlation with health outcomes that are more sensitive to time/distance to hospitals, such as heart-related diseases, than health outcomes that are not sensitive to time/distance, such as Alzheimer's. However, after running our regressions, we do not find any significant correlations between health outcomes and distance. We offer several potential reasons in the later sections.
 
 [Making a hyperlink](https://i.pinimg.com/736x/88/50/2b/88502b58b2ca3509be47473044fde8cc--wink-wink-adorable-animals.jpg)
 
-images (go the image, right click to copy direct URL link you can resize using html options).
+# The Data
 
-<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true">
-
-# The data
-
-To construct our analysis, we downloaded census tract centroid points for each state, coordinates for hospitals in our 6 states, demographic data, health outcomes, and a 2016 county crosswalk to merge our data. 
+To construct our analysis, we downloaded census tract centroid points for each state, coordinates for hospitals in our 6 states, demographic data, health outcomes, and a 2016 county crosswalk to merge our data. All of our data is from 2016.
 
 Below is a list of the datasets we used.
 
-[2016 Census tract coordinates] (https://www.census.gov/geo/maps-data/data/tiger-line.html)
+[2016 Census tract coordinates](https://www.census.gov/geo/maps-data/data/tiger-line.html)
+[Hospital coordinates](https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u)
+[2016 Demographic data (education, unemployment, median income)](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t)
+[2016 Demographic data (sex, race, age)](https://wonder.cdc.gov/controller/datarequest/D76)
+[2016 Health outcomes](https://wonder.cdc.gov/controller/datarequest/D76)
+[2016 County crosswalk](http://www.nber.org/cbsa-msa-fips-ssa-county-crosswalk/2016/)
 
-education/unemployent/income 2016 - https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t
-health outcomes/sex/race/age 2016 - https://wonder.cdc.gov/controller/datarequest/D76
-2016 county crosswalk - http://www.nber.org/cbsa-msa-fips-ssa-county-crosswalk/2016/
-census tract - https://www.census.gov/geo/maps-data/data/tiger-line.html (2016)
-hospital address/coordinates - https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u
+Our analysis occurs at the county level. The distance of a centroid to the closest hospital is averaged to the county level. All other data is collected at the county level. Education is expressed as percentage of total population within the specific education level. The unemployment rate is that for those over the age of 16. Sex and race are also expressed as percentages of total county population. We specified age to be percentage of total county population over the age of 65.
 
-# The investigation
-## 
+# The Investigation
 
-Include link to jupyter notebook
-Put in images/maps - save as pdf from notebook into directory and link to pdf in directory
+All analysis code for this project is included in a single jupyter notebook.
+[Health Outcomes and Distance](https://github.com/axgao1/Final_Project_DK_AG/blob/master/Final%20Project.ipynb)
 
-We're regressing log(mortality) on various demographic variables as well as the mean distance from census tract centroids to the nearest hospital at the county level. We look at three measures of mortality:
+The bulk of the analysis is performed in python, pandas and statsmodels.
+
+We first obtained census tract centroid coordinates for each state using the downloaded shape files. We then converted the centroid coordinates and hospital coordinates to the same projection and found the minimum distance from each centroid to all hospitals, giving us the distance to the closest hospital from each centroid. 
+
+Below is a map of our hospital locations limited to 1 northern state (Montana) and 1 southern state (Louisiana).
+
+<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/Hospital%20Locations%20with%20Distances.png?raw=true" width="400" height="500">
+
+We then merged all of our demographic variables into one dataframe with health outcomes by county. Using this one combined dataframe, we were able to regress health outcomes on the demographics. 
+
+Since we also decided to explore how distance impacts change with different causes of death, we created dataframes to only include heart-related diseases cause of death for each county and Alzheimer's-related cause of death for each county as contrasts against each other. Both dataframes are joined with all demographics and minimum distance data.
+
+# Regression Analysis
+
+## Baseline Model
+
+Our baseline model uses all causes of mortality (allcausemort) as the dependent variable. We regress log(allcausemort) on ged, highschool, somecollege, associates, bachelors, graduateplus, np.log(income), percentmale, nonhispanicwhite, percent65plus, unemployment, mindist, and state, as well as the minimum distance averaged at the county level. We hoped to demonstrate that being farther away from a hospital has a negative impact on overall health outcomes.
+
+
+
+
+
+We look at three measures of mortality:
 All cause mortality
 Mortality from heart failure and closely related heart conditions
 Mortality from Alzheimers
@@ -39,7 +58,6 @@ Mortality from Alzheimers
 
 We hoped to demonstrate that being farther from the hospital has a negative impact on health outcomes and that this impact is larger for heart-related deaths, particularly in the Southern states.
 
-Use shape files to create tract dataframe - contains minimum distance column
 
 Missing data - health outcomes
 
