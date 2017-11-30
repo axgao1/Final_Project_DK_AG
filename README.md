@@ -43,11 +43,11 @@ Since we also decided to explore how distance impacts change with different caus
 
 ## Baseline Model - All Cause Mortality Model
 
-Our baseline model uses all causes of mortality (allcausemort) as the dependent variable. We regress log(allcausemort) on ged, highschool, somecollege, associates, bachelors, graduateplus, np.log(income), percentmale, nonhispanicwhite, percent65plus, unemployment, mindist, and state, as well as the minimum distance averaged at the county level. We hoped to demonstrate that being farther away from a hospital has a negative impact on overall health outcomes after having controlled for other variables that would also affect health outcomes.
+Our baseline model uses all causes of mortality (allcausemort) as the dependent variable. We regress log(allcausemort) on ged, highschool, somecollege, associates, bachelors, graduateplus, np.log(income), percentmale, nonhispanicwhite, percent65plus, unemployment, mindist, and state, as well as the minimum distance averaged at the county level. We hoped to demonstrate that being farther away (a kilometer further) from a hospital has a negative impact on overall health outcomes after having controlled for other variables that would also affect health outcomes.
 
 ## Heart-related Mortality Model
 
-This model attempted to demonstrate how heart failure and heart-related causes of death are impacted by distance to nearest hospital. We regress log(heartmort) on ged, highschool, somecollege, associates, bachelors, graduateplus, np.log(income), percentmale, nonhispanicwhite, percent65plus, unemployment, mindist, and state, as well as the minimum distance averaged at the county level. We had hoped to demonstrate that being a kilometer away from a hospital has a larger negative impact on mortality after having controlled for other variables that would also affect health outcomes.
+This model attempted to demonstrate how heart failure and heart-related causes of death are impacted by distance to nearest hospital. We regress log(heartmort) on ged, highschool, somecollege, associates, bachelors, graduateplus, np.log(income), percentmale, nonhispanicwhite, percent65plus, unemployment, mindist, and state, as well as the minimum distance averaged at the county level. We had hoped to demonstrate that being farther away (a kilometer further) from a hospital has a larger negative impact on mortality after having controlled for other variables that would also affect health outcomes.
 
 ## Alzheimer's-related Mortality Model
 
