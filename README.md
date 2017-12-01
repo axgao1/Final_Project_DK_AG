@@ -57,7 +57,7 @@ In our first regression, we examined the effect of being further from a hospital
 
 In examining our results, we see that the mindist coefficient (-2.456e-05) is not only insignigificant, but the sign on the coefficient is not what we expected either. Being a kilometer further from the nearest hospital should not decrease mortality in a county. 
 
-## ALL CAUSE MORTALITY REGRESSION
+## All Cause Mortality Regression
 
 | Dep. Variable: | np.log(allcausemort) | R-squared:	      | 0.610 |
 ---------------- | -------------------- | ----------------- | ----- |
@@ -168,7 +168,7 @@ In examining the state fixed effects, it appears that the differences between st
 
 Reviewing the rest of our control variables, we see that age is the biggest predictor in causes of mortality, especially since we limited it to population above 65. Having more old people leads to more deaths. 
 
-# Limitations of our Study and Possible Extensions 
+# Limitations of Our Study and Possible Extensions 
 
 ## Missing data
 
@@ -178,7 +178,13 @@ The first limitation to our study is the fact that, though we had complete data 
   <img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true" width="600" height="600" align="middle">
 </p>
 
+<p align="center">
+  <img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/Heart%20Data%20Availability%20Map.png?raw=true" width="600" height="600" align="middle">
+</p>
 
+<p align="center">
+  <img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/Alzheimer's%20Data%20Availability%20Map.png?raw=true" width="600" height="600" align="middle">
+</p>
 
 ## Hospital heterogeneity
 We also did not control for differences between hospitals and treated hospitals as homogeneous entities. In reality, different hospitals provide vastly different quality of service and many lack particular capabilities all together. An extension of this study would attempt to more richly model what hospitals can and cannot do as well as the quality of service they provide. 
@@ -202,5 +208,3 @@ We measure mortality from Alzheimer's on the assumption that it would not be sen
 ## Distance measure
 
 we're measuring straight line distance in an Albers equal area projection of the states, but it would have been more accurate if we measured distance by road/travel distance instead. Ambulances do not travel as the crow flies.
-
-
