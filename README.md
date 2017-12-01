@@ -6,7 +6,7 @@ This project explores the impact of distance from a hospital on health outcomes 
 
 The initial hypothesis was that being farther from a hospital has a negative impact on health outcomes, and this negative impact would be larger in southern states than in northern states. After controlling for demographic variables such as age, race, income, sex, education, and unemployment rate, we hypothesized that distance is negatively correlated with health outcomes. Further, we expected distance to have a stronger negative correlation with particular health outcomes that are more sensitive to time/distance to hospitals, such as heart-related diseases relative to health outcomes that are not as sensitive to time/distance, such as Alzheimer's. However, after running our regressions, we do not find any significant correlations between health outcomes and distance. We offer several potential reasons in the later sections.
 
-# The Data [SHOULD WE MAKE CHECKOUT SCRIPT FOR ALL THE DATA?]
+# The Data
 
 To construct our analysis, we downloaded census tract shape files for each state from the Census Bureau, coordinates for hospitals in our 6 states from Medicare's Compare website, health outcomes from CDC Wonder, demographic data from the ACS and CDC Wonder, and a 2016 county FIPS to county name crosswalk from the NBER for the purpose of merging our data. All of our data is from 2016.
 
@@ -21,7 +21,7 @@ Below is a list of the datasets we used.
 
 Our analysis occurs at the county level. The distance of a census tract centroid to the closest hospital is averaged across all tracts in a county to approximate a county level distance to hospital metric. All other data is collected at the county level. Education is expressed as percentage of total population within the specific education level. The unemployment rate is that for those over the age of 16. Sex is also expressed as percentages of total county population. Race is presented as percentage of the population that is non-hispanic white. We specified age to be percentage of total county population over the age of 65.
 
-# The Investigation [SHOULD CHANGE MISSING DATA TO WHITE FOR CONTRAST. MAKE LEGEND BIGGER]
+# The Investigation
 
 All analysis code for this project is included in a single jupyter notebook.
 
@@ -60,10 +60,18 @@ In examining our results, we see that the mindist coefficient (-2.456e-05) is no
 ## ALL CAUSE MORTALITY REGRESSION
 
 
-| Dep. Variable: | np.log(allcausemort) | R-squared:	0.610 |
----------------- | -------------------- | ----------------- |
-OLS              | Adj. R-squared:      | 0.592
-Content Cell     | Content Cell         |
+| Dep. Variable: | np.log(allcausemort) | R-squared:	      | 0.610 |
+---------------- | -------------------- | ----------------- | ----- |
+Model     | OLS      |Adj. R-squared:  | 0.592
+Method   | Least Squares  | F-statistic: | 33.63
+Date: |	Tue, 28 Nov 2017 |	Prob (F-statistic): |	3.35e-64
+Time:	| 15:43:28 |	Log-Likelihood:	| 218.27
+No. Observations:	| 384	| AIC:	| -400.5
+Df Residuals:	| 366	| BIC:	| -329.4
+Df Model:|	17		
+Covariance Type:|	nonrobust	
+
+
 
 
 
