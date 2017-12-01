@@ -59,7 +59,6 @@ In examining our results, we see that the mindist coefficient (-2.456e-05) is no
 
 ## ALL CAUSE MORTALITY REGRESSION
 
-
 | Dep. Variable: | np.log(allcausemort) | R-squared:	      | 0.610 |
 ---------------- | -------------------- | ----------------- | ----- |
 Model     | OLS      |Adj. R-squared:  | 0.592
@@ -115,26 +114,54 @@ state[T. Mississippi]|	0.0899|	0.082|	1.096|	0.275|	-0.072|	0.252
 state[T. Montana]|	-0.2674|	0.192|	-1.395|	0.165|	-0.646|	0.111
 state[T. North Dakota]|	0.0652|	0.212|	0.308|	0.759|	-0.353|	0.483
 state[T. South Dakota]|	-0.0829|	0.181|	-0.457|	0.648|	-0.441|	0.275
-ged	1.7312	2.654	0.652	0.515	-3.506	6.969
-highschool	0.3882	1.251	0.310	0.757	-2.081	2.858
-somecollege	0.6860	1.371	0.501	0.617	-2.019	3.391
-associates	-1.9570	2.218	-0.882	0.379	-6.335	2.421
-bachelors	-2.9207	1.710	-1.708	0.089	-6.296	0.454
-graduateplus	3.8749	2.216	1.749	0.082	-0.498	8.247
-np.log(income)	0.2261	0.251	0.901	0.369	-0.269	0.721
-percentmale	-4.2652	2.334	-1.828	0.069	-8.870	0.340
-nonhispanicwhite	0.3600	0.255	1.410	0.160	-0.144	0.864
-percent65plus	7.2137	1.411	5.113	0.000	4.430	9.998
-unemployment	-0.0001	0.012	-0.010	0.992	-0.025	0.025
-mindist	-0.0012	0.001	-1.225	0.222	-0.003	0.001
-
-
+ged|	1.7312|	2.654|	0.652|	0.515|	-3.506|	6.969
+highschool|	0.3882|	1.251|	0.310|	0.757|	-2.081|	2.858
+somecollege|	0.6860|	1.371|	0.501|	0.617|	-2.019|	3.391
+associates|	-1.9570|	2.218|	-0.882|	0.379|	-6.335|	2.421
+bachelors|	-2.9207|	1.710|	-1.708|	0.089|	-6.296|	0.454
+graduateplus|	3.8749|	2.216|	1.749|	0.082|	-0.498|	8.247
+np.log(income)|	0.2261|	0.251|	0.901|	0.369|	-0.269|	0.721
+percentmale|	-4.2652|	2.334|	-1.828|	0.069|	-8.870|	0.340
+nonhispanicwhite|	0.3600|	0.255|	1.410|	0.160|	-0.144|	0.864
+percent65plus|	7.2137|	1.411|	5.113|	0.000|	4.430|	9.998
+unemployment|	-0.0001|	0.012|	-0.010|	0.992|	-0.025|	0.025
+mindist|	-0.0012|	0.001|	-1.225|	0.222|	-0.003|	0.001
 
 In examining the Alzheimer's-related mortality regression, the coefficient on mindist (0.0016) is positive as expected, although this is still insignificant. We do expect that being a kilometer further from the nearest hospital is correlated with higher mortality due to Alzheimer's. Ironically, the measure we expect to be the least sensitive to distance from hospital seems to be the most sensitive with a correct correlation direction and the highest t-statistic of the three coefficients.
 
-## AL REGRESSION
+## Alzheimer's-related Mortality Regression
 
-[AL TABLE]
+| Dep. Variable: | np.log(Alzheimers_mort) | R-squared:	      | 0.501 |
+---------------- | -------------------- | ----------------- | ----- |
+Model:|	OLS|	Adj. R-squared:|	0.446
+Method:|	Least Squares|	F-statistic:|	9.143
+Date:|	Tue, 28 Nov 2017|	Prob (F-statistic):|	4.05e-16
+Time:|	15:43:28|	Log-Likelihood:|	-69.803
+No. Observations:| 173| AIC:|	175.6
+Df Residuals:|	155|	BIC:|	232.4
+Df Model:|	17		
+Covariance Type:|	nonrobust		
+
+| | coef|	std err|	t	P>abs(t)|	[0.025|	0.975]|
+--| ----| ------ | ---------- | ----- | ------|
+Intercept|	2.3775|	3.166|	0.751|	0.454|	-3.877|	8.632
+state[T. Louisiana]|	0.1811|	0.111|	1.637|	0.104|	-0.037|	0.400
+state[T. Mississippi]|	0.1476|	0.092|	1.610|	0.109|	-0.034|	0.329
+state[T. Montana]|	-0.6499|	0.221|	-2.936|	0.004|	-1.087|	-0.213
+state[T. North Dakota]|	0.3551|	0.243|	1.461|	0.146|	-0.125|	0.835
+state[T. South Dakota]|	0.3084|	0.212|	1.458|	0.147|	-0.110|	0.726
+ged|	-0.4713|	3.154|	-0.149|	0.881|	-6.702|	5.760
+highschool|	0.3245|	1.594|	0.204|	0.839|	-2.824|	3.473
+somecollege|	-0.3328|	1.438|	-0.232|	0.817|	-3.173|	2.507
+associates|	4.3131|	2.469|	1.747|	0.083|	-0.564|	9.190
+bachelors|	-1.5957|	2.003|	-0.797|	0.427|	-5.552|	2.360
+graduateplus|	1.6575|	2.364|	0.701|	0.484|	-3.013|	6.327
+np.log(income)|	-0.0817|	0.296|	-0.276|	0.783|	-0.666|	0.503
+percentmale|	2.1038|	2.549|	0.826|	0.410|	-2.930|	7.138
+nonhispanicwhite|	-0.7672|	0.285|	-2.692|	0.008|	-1.330|	-0.204
+percent65plus|	10.1084|	1.422|	7.110|	0.000|	7.300|	12.917
+unemployment|	-0.0114|	0.016|	-0.727|	0.468|	-0.042|	0.020
+mindist|	0.0016|	0.001|	1.350|	0.179|	-0.001|	0.004
 
 ## Analysis of covariates
 In examining the state fixed effects, it appears that the differences between states are not as large as we expected. No state's mortality outcomes are significantly different from Alabama, except for Montana in the Alzheimer's-related mortality regression, where Montana has significantly lower Alzheimer's-related mortality than Alabama. Though insignificant, North Dakota and South Dakota generally tend to have higher mortality than Alabama. All of this contradicts our initial assumption that Northern states have better health outcomes than Southern states. However, we did not rigorously test the difference in health outcomes between Northern and Southern states, a potential limitation to our study commented on below.
@@ -147,11 +174,11 @@ Reviewing the rest of our control variables, we see that age is the biggest pred
 
 The first limitation to our study is the fact that, though we had complete data for all cause mortality, our data by cause of mortality is highly fragmentary. This can be easily seen in our maps below showing data availability. There is a lot of missing data in the Northern states especially. Without this data, our effective number of observations is extremely limited as counties with missing mortality rates are excluded from our regression results, making our results inaccurate. We tend to be missing more data in rural areas far from hospitals, which compounds the problem. An extension of this study would need to use more complete data for mortality by specific causes.
 
-[WILL ADD 3 DATA MAPS]
-
 <p align="center">
   <img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.png?raw=true" width="600" height="600" align="middle">
 </p>
+
+
 
 ## Hospital heterogeneity
 We also did not control for differences between hospitals and treated hospitals as homogeneous entities. In reality, different hospitals provide vastly different quality of service and many lack particular capabilities all together. An extension of this study would attempt to more richly model what hospitals can and cannot do as well as the quality of service they provide. 
