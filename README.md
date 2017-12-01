@@ -163,7 +163,7 @@ percent65plus|	10.1084|	1.422|	7.110|	0.000|	7.300|	12.917
 unemployment|	-0.0114|	0.016|	-0.727|	0.468|	-0.042|	0.020
 mindist|	0.0016|	0.001|	1.350|	0.179|	-0.001|	0.004
 
-## Analysis of covariates
+## Analysis of Covariates
 In examining the state fixed effects, it appears that the differences between states are not as large as we expected. No state's mortality outcomes are significantly different from Alabama, except for Montana in the Alzheimer's-related mortality regression, where Montana has significantly lower Alzheimer's-related mortality than Alabama. Though insignificant, North Dakota and South Dakota generally tend to have higher mortality than Alabama. All of this contradicts our initial assumption that Northern states have better health outcomes than Southern states. However, we did not rigorously test the difference in health outcomes between Northern and Southern states, a potential limitation to our study commented on below.
 
 Reviewing the rest of our control variables, we see that age is the biggest predictor in causes of mortality, especially since we limited it to population above 65. Having more old people leads to more deaths. 
@@ -199,7 +199,7 @@ Another concern is the lack of within group variation in hospital distance. Whil
 
 ## Other healthcare providers
 
-hospitals are not the only providers in healthcare markets. Many of the counties we measure to be underserved by hospitals may have many small clinics or independent physician practices. Controlling for the prevelance of other healthcare providers would be critical in extending the analysis.
+Hospitals are not the only providers in healthcare markets. Many of the counties we measure to be underserved by hospitals may have many small clinics or independent physician practices. Controlling for the prevelance of other healthcare providers would be critical in extending the analysis.
 
 ## Alternative choice for mortality not sensitive to distance
 
@@ -207,4 +207,4 @@ We measure mortality from Alzheimer's on the assumption that it would not be sen
 
 ## Distance measure
 
-we're measuring straight line distance in an Albers equal area projection of the states, but it would have been more accurate if we measured distance by road/travel distance instead. Ambulances do not travel as the crow flies.
+Our analysis uses straight line distance in an Albers equal area projection of the states, but it would have been more accurate if we measured distance by road/travel distance instead. Ambulances do not travel as the crow flies.
