@@ -8,7 +8,7 @@ The initial hypothesis was that being farther from a hospital has a negative imp
 
 # The Data
 
-To construct our analysis, we downloaded census tract shape files for each state from the Census Bureau, coordinates for hospitals in our 6 states from Medicare's Compare website, health outcomes from CDC Wonder, demographic data from the ACS and CDC Wonder, and a 2016 county FIPS to county name crosswalk from the NBER for the purpose of merging our data. All of our data is from 2016.
+To construct our analysis, we downloaded census tract shape files for each state from the Census Bureau, coordinates for hospitals in our 6 states from Medicare's Compare website, health outcomes (mortality) from CDC Wonder, demographic data from the ACS and CDC Wonder, and a 2016 county FIPS to county name crosswalk from the NBER for the purpose of merging our data. All of our data is from 2016.
 
 Below is a list of the datasets we used.
 
@@ -91,7 +91,7 @@ percent65plus|	2.8215|	0.266|	10.621|	0.000|	2.299|	3.344
 unemployment|	-0.0098|	0.003|	-3.662|	0.000|	-0.015|	-0.005
 mindist|	-2.456e-05|	0.000|	-0.117|	0.907|	-0.000|	0.000
 
-This counter intuitive result is also borne out in the heart-related mortality regression. The coefficient on mindist in this regression is -0.0012, although this is still insigificant. This is especially surprising because we expected heart-related mortality to be extremely sensitive to distance from a hospital. When a person is having a heart attack, we would expect distance and time to a hospital to be critical for survival rate. In our results, we only explain 36.2% of the variation in heart-related mortality, so our model is missing key factors.
+This counter intuitive result is also borne out in the heart-related mortality regression. The coefficient on mindist in this regression is -0.0012, although this is still insigificant. This is especially surprising because we expected heart-related mortality to be extremely sensitive to distance from a hospital. When a person is having a heart attack, we would expect distance and time to a hospital to be critical for survival rate. In addition, we only explain 36.2% of the variation in heart-related mortality, so our model is missing key factors in explaining mortality from heart failure.
 
 ## Heart-Related Mortality Regression
 
@@ -166,7 +166,7 @@ mindist|	0.0016|	0.001|	1.350|	0.179|	-0.001|	0.004
 ## Analysis of Covariates
 In examining the state fixed effects, it appears that the differences between states are not as large as we expected. No state's mortality outcomes are significantly different from Alabama, except for Montana in the Alzheimer's-related mortality regression, where Montana has significantly lower Alzheimer's-related mortality than Alabama. Though insignificant, North Dakota and South Dakota generally tend to have higher mortality than Alabama. All of this contradicts our initial assumption that Northern states have better health outcomes than Southern states. However, we did not rigorously test the difference in health outcomes between Northern and Southern states, a potential limitation to our study commented on below.
 
-Reviewing the rest of our control variables, we see that age is the biggest predictor in causes of mortality, especially since we limited it to population above 65. Having more old people leads to more deaths. 
+Reviewing the rest of our control variables, we see that age is the biggest predictor in causes of mortality, especially since we limited it to population above 65. Understandably, having more old people leads to more deaths. 
 
 # Limitations of Our Study and Possible Extensions 
 
