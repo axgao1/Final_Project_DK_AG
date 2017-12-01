@@ -71,39 +71,63 @@ Df Residuals:	| 366	| BIC:	| -329.4
 Df Model:|	17		
 Covariance Type:|	nonrobust	
 
-
-|  |	coef | std err |	t	| P>|t|	| [0.025 |	0.975] |
----| ---- | -------| ---| ------| ------| ------|
+|  |	coef | std err |	t	| P>abs(t)	| [0.025 |	0.975] |
+--------| ---- | ------- | -- | --------- | ------ | ------- |
 Intercept	| 10.0629 |	0.616 |	16.340 |	0.000 |	8.852|	11.274
 state[T. Louisiana]|	-0.0169|	0.029|	-0.581|	0.562|	-0.074|	0.040
 state[T. Mississippi]|	-0.0409|	0.025|	-1.645|	0.101|	-0.090|	0.008
-state[T. Montana]	-0.0267	0.039	-0.679	0.498	-0.104	0.051
-state[T. North Dakota]	0.0519	0.044	1.187	0.236	-0.034	0.138
-state[T. South Dakota]	0.0129	0.035	0.363	0.716	-0.057	0.083
-ged	-0.2974	0.590	-0.504	0.614	-1.457	0.862
-highschool	-0.6531	0.282	-2.318	0.021	-1.207	-0.099
-somecollege	-0.1294	0.319	-0.406	0.685	-0.757	0.498
-associates	0.2172	0.441	0.493	0.622	-0.650	1.084
-bachelors	-1.4434	0.364	-3.970	0.000	-2.158	-0.728
-graduateplus	-1.4080	0.424	-3.319	0.001	-2.242	-0.574
-np.log(income)	-0.2043	0.059	-3.464	0.001	-0.320	-0.088
-percentmale	-1.5309	0.428	-3.574	0.000	-2.373	-0.689
-nonhispanicwhite	-0.1203	0.066	-1.820	0.070	-0.250	0.010
-percent65plus	2.8215	0.266	10.621	0.000	2.299	3.344
-unemployment	-0.0098	0.003	-3.662	0.000	-0.015	-0.005
-mindist	-2.456e-05	0.000	-0.117	0.907	-0.000	0.000
-
-
-
-
-
-
+state[T. Montana]|	-0.0267|	0.039| -0.679| 0.498| -0.104| 0.051
+state[T. North Dakota]|	0.0519|	0.044|	1.187|	0.236|	-0.034|	0.138
+state[T. South Dakota]|	0.0129|	0.035|	0.363|	0.716|	-0.057|	0.083
+ged|	-0.2974|	0.590|	-0.504|	0.614|	-1.457|	0.862
+highschool|	-0.6531|	0.282|	-2.318|	0.021|	-1.207|	-0.099
+somecollege|	-0.1294|	0.319|	-0.406|	0.685|	-0.757|	0.498
+associates|	0.2172|	0.441|	0.493|	0.622|	-0.650|	1.084
+bachelors|	-1.4434|	0.364|	-3.970|	0.000|	-2.158|	-0.728
+graduateplus|	-1.4080|	0.424|	-3.319|	0.001|	-2.242|	-0.574
+np.log(income)|	-0.2043|	0.059|	-3.464|	0.001|	-0.320|	-0.088
+percentmale|	-1.5309|	0.428|	-3.574|	0.000|	-2.373|	-0.689
+nonhispanicwhite|	-0.1203|	0.066|	-1.820|	0.070|	-0.250|	0.010
+percent65plus|	2.8215|	0.266|	10.621|	0.000|	2.299|	3.344
+unemployment|	-0.0098|	0.003|	-3.662|	0.000|	-0.015|	-0.005
+mindist|	-2.456e-05|	0.000|	-0.117|	0.907|	-0.000|	0.000
 
 This counter intuitive result is also borne out in the heart-related mortality regression. The coefficient on mindist in this regression is -0.0012, although this is still insigificant. This is especially surprising because we expected heart-related mortality to be extremely sensitive to distance from a hospital. When a person is having a heart attack, we would expect distance and time to a hospital to be critical for survival rate. In our results, we only explain 36.2% of the variation in heart-related mortality, so our model is missing key factors.
 
-## HEART REGRESSION
+## Heart-Related Mortality Regression
 
-[TABLE]
+| Dep. Variable: | np.log(heartmort) | R-squared:	      | 0.362 |
+---------------- | -------------------- | ----------------- | ----- |
+Model:|	OLS	|Adj. R-squared:|	0.301
+Method:|	Least Squares|	F-statistic:|	5.906
+Date:|	Tue, 28 Nov 2017|	Prob (F-statistic):|	1.24e-10
+Time:|	15:43:28|	Log-Likelihood:|	-69.831
+No. Observations:|	195|	AIC:|	175.7
+Df Residuals:|	177|	BIC:|	234.6
+Df Model:|	17		
+Covariance Type:|	nonrobust		
+
+| | coef|	std err|	t	P>abs(t)|	[0.025|	0.975]|
+--| ----| ------ | ---------- | ----- | ------|
+Intercept|	2.7361|	2.773|	0.987|	0.325|	-2.736|	8.208
+state[T. Louisiana]|	0.1113|	0.103|	1.079|	0.282|	-0.092|	0.315
+state[T. Mississippi]|	0.0899|	0.082|	1.096|	0.275|	-0.072|	0.252
+state[T. Montana]|	-0.2674|	0.192|	-1.395|	0.165|	-0.646|	0.111
+state[T. North Dakota]|	0.0652|	0.212|	0.308|	0.759|	-0.353|	0.483
+state[T. South Dakota]|	-0.0829|	0.181|	-0.457|	0.648|	-0.441|	0.275
+ged	1.7312	2.654	0.652	0.515	-3.506	6.969
+highschool	0.3882	1.251	0.310	0.757	-2.081	2.858
+somecollege	0.6860	1.371	0.501	0.617	-2.019	3.391
+associates	-1.9570	2.218	-0.882	0.379	-6.335	2.421
+bachelors	-2.9207	1.710	-1.708	0.089	-6.296	0.454
+graduateplus	3.8749	2.216	1.749	0.082	-0.498	8.247
+np.log(income)	0.2261	0.251	0.901	0.369	-0.269	0.721
+percentmale	-4.2652	2.334	-1.828	0.069	-8.870	0.340
+nonhispanicwhite	0.3600	0.255	1.410	0.160	-0.144	0.864
+percent65plus	7.2137	1.411	5.113	0.000	4.430	9.998
+unemployment	-0.0001	0.012	-0.010	0.992	-0.025	0.025
+mindist	-0.0012	0.001	-1.225	0.222	-0.003	0.001
+
 
 
 In examining the Alzheimer's-related mortality regression, the coefficient on mindist (0.0016) is positive as expected, although this is still insignificant. We do expect that being a kilometer further from the nearest hospital is correlated with higher mortality due to Alzheimer's. Ironically, the measure we expect to be the least sensitive to distance from hospital seems to be the most sensitive with a correct correlation direction and the highest t-statistic of the three coefficients.
